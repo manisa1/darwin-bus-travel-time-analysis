@@ -1,0 +1,81 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+25610,1,OL1,OL1,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,F77E22,FFFFFF
+25957,1,OL2,OL2,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,F77E22,FFFFFF
+11818,1,1,Darwin Hospital Precinct - Tiwi - Nakara,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+11921,1,1h,Royal Darwin Hospital - Diabetes Aust,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+11944,1,2,Casuarina - Wanguri - Leanyer -Wulagi -Wagaman,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+12125,1,3,Casuarina - Alawa - Jingili - Moil - Anula,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+12788,1,4,Casuarina - Darwin via CDU & Nightcliff,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+14001,1,5,Casuarina - Marrara - Berrimah - Winnellie - Darwin,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+14756,1,6,Darwin - Museum - Fannie Bay - Parap,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+15151,1,7,Darwin - Stuart Park - Bayview,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+15280,1,8,Palmerston - Darwin via Stuart Highway,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+15769,1,9,Palmerston - Berrimah - Karama- Casuarina,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+16321,1,10,Casuarina - Darwin via Bagot Rd,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+16500,1,11,Millner - Rapid Creek - Alawa,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+16665,1,12,Casuarina - Malak - Karama,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+16842,1,14,Darwin - Cullen Bay and Waterfront,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+17018,1,15,Darwin - Mindil Beach Markets ,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,D60007,FFFFFF
+17203,1,19,Mindil Beach Markets - Casuarina,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,D60007,FFFFFF
+17260,1,21,Hospital Precinct - Darwin Express,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,D60007,FFFFFF
+17459,1,22,Leanyer - Darwin Express,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,D60007,FFFFFF
+17542,1,24,Casuarina - Wanguri - Lyons - Muirhead ,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+17577,1,25,Karama - Darwin Semi Express,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,D60007,FFFFFF
+17708,1,28,Humpty Doo - Coolalinga - Darwin Express ,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,D60007,FFFFFF
+20253,1,70,Palmerston - Driver - Moulden,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+20484,1,71,Palmerston - Woodroffe - Gray,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+20659,1,72,Palmerston - Gunn - Bakewell - Rosebery,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+20874,1,73,Palmerston - Durack - CDU Palmerston,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+21057,1,74,Palmerston -Farrar -Johnston -Zuccoli,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+21298,1,74t,Farrar Johnston  Zuccoli via Tuckeroo Blvd,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+21389,1,76,Palmerston - Bakewell - Rosebery - Bellamack - Moulden - Driver,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+21418,1,77,Palmerston - Indigenous Village - Rosebery- Bellamack,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+21537,1,78,Palmerston - Kokoda Industries ,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+21577,1,87,Palmerston - Durack Heights,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+21592,1,88,Palmerston - Palmerston Regional Hospital,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+24036,1,440,Humpty Doo - Coolalinga - Virginia - Noonamah - Palmerston,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+24434,1,445,Humtpy Doo - Cox Peninsula Rd - Noonamah - Coolalinga - Palmerston,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+24713,1,446,Bees Creek - Palmerston,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+24808,1,447,Humpty Doo - McMinns Lagoon - Howard Springs - Palmerston,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+24899,1,450,Humpty Doo - Girraween - Howard Springs - Palmerston,,3,http://www.transport.nt.gov.au/public-transport/public-bus-service/darwin,004C5B,FFFFFF
+17797,1,30,Sanderson Middle - Palmerston Interchange,,3,,,
+17908,1,31,Palmerston - O'Loughlin Return,,3,,,
+17979,1,32,Darwin High Darwin Middle - Darwin Interchange,,3,,,
+18036,1,33,Sanderson Middle - Casuarina Interchange,,3,,,
+18087,1,34,Casuarina - Nightcliff Middle - Return,,3,,,
+18175,1,36,Moray St to Casuarina Interchange,,3,,,
+18218,1,50,Darwin High Darwin Middle - Casuarina,,3,,,
+18529,1,51,St Johns College - Casuarina,,3,,,
+18592,1,52,Nightcliff Primary - Casuarina,,3,,,
+18621,1,53,Ludmilla Primary School to Darwin High/Middle Schools,,3,,,
+18829,1,58,Darwin High Darwin Middle Schools - Palmerston,,3,,,
+19030,1,59,Haileybury Rendall School - Casuarina,,3,,,
+19157,1,60,Marrara College - Larrakeyah - Darwin,,3,,,
+19396,1,61,Marrara Christian - OLoughlin - Casuarina,,3,,,
+19695,1,62,Marrara Christian College - Palmerston Christian College,,3,,,
+19850,1,63,Palmeston - Sanderson Middle School - Casuarina Senior College,,3,,,
+20005,1,64,Marrara Christian College - OLoughlin - Leanyer,,3,,,
+20098,1,65,St Johns - Karama,,3,,,
+20238,1,68,Sacred Heart Primary - Palmerston,,3,,,
+21544,1,80,Nightcliff Middle School - Ross Smith Ave,,3,,,
+21734,1,100,Darwin Middle Darwin High Schools - Karama - Berrimah,,3,,,
+22569,1,112,Moulden Primary School - Palmerston,,3,,,
+22996,1,204,Darwin High - Bayview,,3,,,
+23099,1,208,Palmerston - Haileybury Rendall School,,3,,,
+23474,1,217,Good Shepherd College - Howard Springs Primary - Humtpy Doo,,3,,,
+23523,1,219,Palmerston - Good Shepherd College,,3,,,
+23601,1,228,Cnr Morgan Rd Stuart Hwy - Taminmin College,,3,,,
+23624,1,229,Sanderson Middle School - Casuarina Interchange,,3,,,
+23647,1,236,Zuccoli Schools - Palmerston via Farrar and Johnston,,3,,,
+23690,1,244,Bakewell Primary - Palmerston,,3,,,
+23831,1,245,Rosebery Woodroffe Moulden - Mackillop College,,3,,,
+23866,1,248,Mackillop Catholic College - Gray,,3,,,
+23945,1,250,Palmerston College 7-9 - Palmerston,,3,,,
+23962,1,419,Cnr Hamilton Whitwood Rds - Humpty Doo Schools,,3,,,
+23999,1,437,Howard River Park - Howard Springs Primary,,3,,,
+24229,1,441,Coolalinga - Howard Springs Primary,,3,,,
+24336,1,443,Bees Creek - Howards Springs Primary,,3,,,
+24954,1,453,Marrakai - Humpty Doo Schools,,3,,,
+24963,1,455,Wagait Estate - Mandorah Jetty,,3,,,
+24972,1,461,Nakara Primary - Casuarina,,3,,,
+25041,1,473,Taminmin College - Palmerston,,3,,,

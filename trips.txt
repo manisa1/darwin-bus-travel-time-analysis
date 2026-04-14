@@ -1,0 +1,1555 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+25610,6,29965,"Orbital 1",0,,25683
+25610,6,30011,"Orbital 1",0,,25683
+25610,6,30057,"Orbital 1",0,,25683
+25610,6,30103,"Orbital 1",0,,25683
+25957,6,30252,"Orbital 2",0,,26028
+25957,6,30298,"Orbital 2",0,,26028
+25957,6,30344,"Orbital 2",0,,26028
+25957,6,30390,"Orbital 2",0,,26028
+25610,6,30437,"Orbital 1",0,,25797
+25610,6,30483,"Orbital 1",0,,25797
+25610,6,30529,"Orbital 1",0,,25797
+25610,6,30575,"Orbital 1",0,,25797
+25957,6,30622,"Orbital 2",0,,26144
+25957,6,30668,"Orbital 2",0,,26144
+25957,6,30714,"Orbital 2",0,,26144
+25957,6,30760,"Orbital 2",0,,26144
+25610,6,30807,"Orbital 1",0,,25911
+25610,6,30853,"Orbital 1",0,,25911
+25610,6,30899,"Orbital 1",0,,25911
+25610,6,30945,"Orbital 1",0,,25911
+25957,6,30992,"Orbital 2",0,,26280
+25957,6,31038,"Orbital 2",0,,26280
+25957,6,31084,"Orbital 2",0,,26280
+25957,6,31130,"Orbital 2",0,,26280
+16321,2,31182,"Darwin via Bagot Rd",1,,16322
+16321,2,31224,"Darwin via Bagot Rd",1,,16322
+16321,2,31266,"Darwin via Bagot Rd",1,,16322
+16321,2,31308,"Darwin via Bagot Rd",1,,16322
+16321,2,31350,"Darwin via Bagot Rd",1,,16322
+16321,2,31392,"Darwin via Bagot Rd",1,,16322
+16321,2,31434,"Darwin via Bagot Rd",1,,16322
+16321,2,31476,"Darwin via Bagot Rd",1,,16322
+16321,2,31518,"Darwin via Bagot Rd",1,,16322
+16321,2,31560,"Darwin via Bagot Rd",1,,16322
+16321,2,31602,"Darwin via Bagot Rd",1,,16322
+16321,2,31644,"Darwin via Bagot Rd",1,,16322
+16321,2,31686,"Darwin via Bagot Rd",1,,16322
+16321,2,31728,"Darwin via Bagot Rd",1,,16322
+16321,2,31770,"Darwin via Bagot Rd",1,,16322
+16321,2,31812,"Darwin via Bagot Rd",1,,16322
+16321,2,31854,"Darwin via Bagot Rd",1,,16322
+16321,2,31896,"Darwin via Bagot Rd",1,,16322
+16321,2,31938,"Darwin via Bagot Rd",1,,16322
+16321,2,31980,"Darwin via Bagot Rd",1,,16322
+16321,2,32022,"Darwin via Bagot Rd",1,,16322
+16321,2,32064,"Darwin via Bagot Rd",1,,16322
+16321,2,32106,"Darwin via Bagot Rd",1,,16322
+16321,2,32148,"Darwin via Bagot Rd",1,,16322
+16321,2,32190,"Darwin via Bagot Rd",1,,16322
+16321,4,32233,"Darwin via Bagot Rd",1,,16322
+16321,4,32275,"Darwin via Bagot Rd",1,,16322
+16321,4,32317,"Darwin via Bagot Rd",1,,16322
+16321,4,32359,"Darwin via Bagot Rd",1,,16322
+16321,4,32401,"Darwin via Bagot Rd",1,,16322
+16321,4,32443,"Darwin via Bagot Rd",1,,16322
+16321,4,32485,"Darwin via Bagot Rd",1,,16322
+16321,4,32527,"Darwin via Bagot Rd",1,,16322
+16321,4,32569,"Darwin via Bagot Rd",1,,16322
+16321,4,32611,"Darwin via Bagot Rd",1,,16322
+16321,4,32653,"Darwin via Bagot Rd",1,,16322
+16321,4,32695,"Darwin via Bagot Rd",1,,16322
+16321,4,32737,"Darwin via Bagot Rd",1,,16322
+16321,4,32779,"Darwin via Bagot Rd",1,,16322
+16321,4,32821,"Darwin via Bagot Rd",1,,16322
+16321,4,32863,"Darwin via Bagot Rd",1,,16322
+16321,4,32905,"Darwin via Bagot Rd",1,,16322
+16321,4,32947,"Darwin via Bagot Rd",1,,16322
+16321,4,32989,"Darwin via Bagot Rd",1,,16322
+16321,4,33031,"Darwin via Bagot Rd",1,,16322
+16321,4,33073,"Darwin via Bagot Rd",1,,16322
+16321,4,33115,"Darwin via Bagot Rd",1,,16322
+16321,4,33157,"Darwin via Bagot Rd",1,,16322
+16321,4,33199,"Darwin via Bagot Rd",1,,16322
+16321,4,33241,"Darwin via Bagot Rd",1,,16322
+16321,4,33283,"Darwin via Bagot Rd",1,,16322
+16321,4,33325,"Darwin via Bagot Rd",1,,16322
+16321,4,33367,"Darwin via Bagot Rd",1,,16322
+16321,4,33409,"Darwin via Bagot Rd",1,,16322
+16321,4,33451,"Darwin via Bagot Rd",1,,16322
+16321,4,33493,"Darwin via Bagot Rd",1,,16322
+16321,6,33536,"Darwin via Bagot Rd",1,,16322
+16321,6,33578,"Darwin via Bagot Rd",1,,16322
+16321,6,33620,"Darwin via Bagot Rd",1,,16322
+16321,6,33662,"Darwin via Bagot Rd",1,,16322
+16321,6,33704,"Darwin via Bagot Rd",1,,16322
+16321,6,33746,"Darwin via Bagot Rd",1,,16322
+16321,6,33788,"Darwin via Bagot Rd",1,,16364
+16321,6,33830,"Darwin via Bagot Rd",1,,16322
+16321,6,33872,"Darwin via Bagot Rd",1,,16322
+16321,6,33914,"Darwin via Bagot Rd",1,,16322
+16321,6,33956,"Darwin via Bagot Rd",1,,16322
+16321,6,33998,"Darwin via Bagot Rd",1,,16322
+16321,6,34040,"Darwin via Bagot Rd",1,,16322
+16321,6,34082,"Darwin via Bagot Rd",1,,16322
+16321,6,34124,"Darwin via Bagot Rd",1,,16322
+16321,6,34166,"Darwin via Bagot Rd",1,,16322
+16321,6,34208,"Darwin via Bagot Rd",1,,16322
+16321,6,34250,"Darwin via Bagot Rd",1,,16322
+16321,6,34292,"Darwin via Bagot Rd",1,,16322
+16321,6,34334,"Darwin via Bagot Rd",1,,16322
+16321,6,34376,"Darwin via Bagot Rd",1,,16322
+16321,6,34418,"Darwin via Bagot Rd",1,,16322
+16321,6,34460,"Darwin via Bagot Rd",1,,16322
+16321,6,34502,"Darwin via Bagot Rd",1,,16322
+16321,6,34544,"Darwin via Bagot Rd",1,,16322
+16321,6,34586,"Darwin via Bagot Rd",1,,16322
+16321,6,34628,"Darwin via Bagot Rd",1,,16322
+16321,6,34670,"Darwin via Bagot Rd",1,,16322
+16321,6,34712,"Darwin via Bagot Rd",1,,16322
+16321,6,34754,"Darwin via Bagot Rd",1,,16322
+16321,6,34796,"Darwin via Bagot Rd",1,,16322
+16321,6,34838,"Darwin via Bagot Rd",1,,16322
+16321,6,34880,"Darwin via Bagot Rd",1,,16322
+16321,6,34922,"Darwin via Bagot Rd",1,,16322
+16321,6,34964,"Darwin via Bagot Rd",1,,16322
+16321,6,35006,"Darwin via Bagot Rd",1,,16322
+16321,6,35048,"Darwin via Bagot Rd",1,,16322
+16321,6,35090,"Darwin via Bagot Rd",1,,16322
+16321,6,35132,"Darwin via Bagot Rd",1,,16322
+16321,6,35174,"Darwin via Bagot Rd",1,,16322
+16321,6,35216,"Darwin via Bagot Rd",1,,16322
+16321,6,35258,"Darwin via Bagot Rd",1,,16322
+16321,3,35300,"Darwin via Bagot Rd",1,,16322
+16321,3,35342,"Darwin via Bagot Rd",1,,16322
+16500,6,35386,"Millner, Rapid Creek, Alawa",1,,16557
+16500,6,35434,"Millner, Rapid Creek, Alawa",1,,16557
+16500,6,35482,"Millner, Rapid Creek, Alawa",1,,16557
+16500,6,35530,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,35590,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,35650,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,35710,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,35770,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,35830,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,35890,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,35950,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,36010,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,36070,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,36130,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,36190,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16500,6,36250,"Millner, Rapid Creek, Nightcliff, Alawa",1,,16605
+16665,2,36311,"Malak, Karama, Wulagi",1,,16772
+16665,2,36381,"Malak, Karama, Wulagi",1,,16772
+16665,2,36451,"Malak, Karama, Wulagi",1,,16772
+16665,2,36521,"Malak, Karama, Wulagi",1,,16772
+16665,2,36591,"Malak, Karama, Wulagi",1,,16772
+16665,2,36661,"Malak, Karama, Wulagi",1,,16772
+16665,2,36731,"Malak, Karama, Wulagi",1,,16772
+16665,2,36801,"Malak, Karama, Wulagi",1,,16772
+16665,2,36871,"Malak, Karama, Wulagi",1,,16772
+16665,2,36941,"Malak, Karama, Wulagi",1,,16772
+16665,2,37011,"Malak, Karama, Wulagi",1,,16772
+16665,2,37081,"Malak, Karama, Wulagi",1,,16772
+16665,2,37151,"Malak, Karama, Wulagi",1,,16772
+16665,2,37221,"Malak, Karama, Wulagi",1,,16772
+16665,4,37292,"Malak, Karama, Wulagi",1,,16772
+16665,4,37362,"Malak, Karama, Wulagi",1,,16772
+16665,4,37432,"Malak, Karama, Wulagi",1,,16772
+16665,4,37502,"Malak, Karama, Wulagi",1,,16772
+16665,4,37572,"Malak, Karama, Wulagi",1,,16772
+16665,4,37642,"Malak, Karama, Wulagi",1,,16772
+16665,4,37712,"Malak, Karama, Wulagi",1,,16772
+16665,4,37782,"Malak, Karama, Wulagi",1,,16772
+16665,4,37852,"Malak, Karama, Wulagi",1,,16772
+16665,4,37922,"Malak, Karama, Wulagi",1,,16772
+16665,4,37992,"Malak, Karama, Wulagi",1,,16772
+16665,4,38062,"Malak, Karama, Wulagi",1,,16772
+16665,4,38132,"Malak, Karama, Wulagi",1,,16772
+16665,4,38202,"Malak, Karama, Wulagi",1,,16772
+16665,4,38272,"Malak, Karama, Wulagi",1,,16772
+16665,4,38342,"Malak, Karama, Wulagi",1,,16772
+16665,4,38412,"Malak, Karama, Wulagi",1,,16772
+16665,6,38483,"Malak, Karama",1,,16666
+16665,6,38549,"Malak, Karama",1,,16666
+16665,6,38615,"Malak, Karama",1,,16666
+16665,6,38681,"Malak, Karama",1,,16666
+16665,6,38747,"Malak, Karama",1,,16666
+16665,6,38813,"Malak, Karama",1,,16666
+16665,6,38879,"Malak, Karama",1,,16666
+16665,6,38945,"Malak, Karama",1,,16666
+16665,6,39011,"Malak, Karama",1,,16666
+16665,6,39077,"Malak, Karama",1,,16666
+16665,6,39143,"Malak, Karama",1,,16666
+16665,6,39209,"Malak, Karama",1,,16666
+16665,6,39275,"Malak, Karama",1,,16666
+16665,6,39341,"Malak, Karama",1,,16666
+16665,6,39407,"Malak, Karama",1,,16666
+16665,6,39473,"Malak, Karama",1,,16666
+16665,6,39539,"Malak, Karama",1,,16666
+16665,6,39605,"Malak, Karama",1,,16666
+16665,6,39671,"Malak, Karama",1,,16666
+16665,6,39737,"Malak, Karama",1,,16666
+16665,6,39803,"Malak, Karama",1,,16666
+16842,6,39871,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,39901,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,39931,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,39961,"Darwin Waterfront",1,,16937
+16842,6,39971,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40001,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40031,"Darwin Waterfront",1,,16937
+16842,6,40041,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40071,"Darwin Waterfront",1,,16937
+16842,6,40081,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40111,"Darwin Waterfront",1,,16937
+16842,6,40121,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40151,"Darwin Waterfront",1,,16937
+16842,6,40161,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40191,"Darwin Waterfront",1,,16937
+16842,6,40201,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40231,"Darwin Waterfront",1,,16937
+16842,6,40241,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40271,"Darwin Waterfront",1,,16937
+16842,6,40281,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40311,"Darwin Waterfront",1,,16937
+16842,6,40321,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40351,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40381,"Darwin Waterfront",1,,16937
+16842,6,40391,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40421,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40451,"Darwin Waterfront",1,,16937
+16842,6,40461,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40491,"Darwin Waterfront",1,,16937
+16842,6,40501,"Cullen Bay Ferry Terminal",1,,16843
+16842,6,40531,"Darwin Waterfront",1,,16937
+16842,4,40542,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,40572,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,40602,"Darwin Waterfront",1,,16937
+16842,4,40612,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,40642,"Bayview, Tipperary Waters",1,,16907
+16842,4,40660,"Darwin Waterfront",1,,16937
+16842,4,40670,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,40700,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,40730,"Bayview, Tipperary Waters",1,,16907
+16842,4,40748,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,40778,"Darwin Waterfront",1,,16937
+16842,4,40788,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,40818,"Bayview, Tipperary Waters",1,,16907
+16842,4,40836,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,40866,"Darwin Waterfront",1,,16937
+16842,4,40876,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,40906,"Bayview, Tipperary Waters",1,,16907
+16842,4,40924,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,40954,"Darwin Waterfront",1,,16937
+16842,4,40964,"Bayview, Tipperary Waters",1,,16907
+16842,4,40982,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,41012,"Bayview, Tipperary Waters",1,,16907
+16842,4,41030,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,41060,"Darwin Waterfront",1,,16937
+16842,4,41070,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,41100,"Darwin Waterfront",1,,16937
+16842,4,41110,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,41140,"Cullen Bay Ferry Terminal",1,,16843
+16842,4,41170,"Darwin Waterfront",1,,16937
+16842,2,41181,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41211,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41241,"Darwin Waterfront",1,,16937
+16842,2,41251,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41281,"Bayview, Tipperary Waters",1,,16907
+16842,2,41299,"Darwin Waterfront",1,,16937
+16842,2,41309,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41339,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41369,"Bayview, Tipperary Waters",1,,16907
+16842,2,41387,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41417,"Darwin Waterfront",1,,16937
+16842,2,41427,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41457,"Bayview, Tipperary Waters",1,,16907
+16842,2,41475,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41505,"Darwin Waterfront",1,,16937
+16842,2,41515,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41545,"Bayview, Tipperary Waters",1,,16907
+16842,2,41563,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41593,"Darwin Waterfront",1,,16937
+16842,2,41603,"Bayview, Tipperary Waters",1,,16907
+16842,2,41621,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41651,"Bayview, Tipperary Waters",1,,16907
+16842,2,41669,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41699,"Darwin Waterfront",1,,16937
+16842,2,41709,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41739,"Darwin Waterfront",1,,16937
+16842,2,41749,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41779,"Cullen Bay Ferry Terminal",1,,16843
+16842,2,41809,"Darwin Waterfront",1,,16937
+17018,5,41821,"Mindil Beach Markets",1,,17019
+17018,5,41843,"Mindil Beach Markets",1,,17019
+17018,5,41865,"Mindil Beach Markets",1,,17019
+17018,5,41887,"Mindil Beach Markets",1,,17019
+17018,5,41909,"Mindil Beach Markets",1,,17019
+17018,5,41931,"Mindil Beach Markets",1,,17019
+17018,5,41953,"Mindil Beach Markets",1,,17019
+17018,5,41975,"Mindil Beach Markets",1,,17019
+17018,5,41997,"Mindil Beach Markets",1,,17019
+17018,5,42019,"Mindil Beach Markets",1,,17019
+17018,5,42041,"Mindil Beach Markets",1,,17019
+17018,5,42063,"Mindil Beach Markets",1,,17019
+17018,5,42085,"Mindil Beach Markets",1,,17019
+17018,5,42107,"Mindil Beach Markets",1,,17019
+17018,5,42129,"Mindil Beach Markets",1,,17019
+17018,5,42151,"Mindil Beach Markets",1,,17019
+17018,5,42173,"Mindil Beach Markets",1,,17019
+11818,2,42197,"Hospital Tiwi Nakara",1,,11859
+11818,2,42241,"Hospital Tiwi Nakara",1,,11859
+11818,2,42285,"Hospital Tiwi Nakara",1,,11859
+11818,2,42329,"Hospital Tiwi Nakara",1,,11859
+11818,2,42373,"Hospital Tiwi Nakara",1,,11859
+11818,2,42417,"Hospital Tiwi Nakara",1,,11859
+11818,2,42461,"Hospital Tiwi Nakara",1,,11859
+11818,2,42505,"Hospital Tiwi Nakara",1,,11859
+11818,2,42549,"Hospital Tiwi Nakara",1,,11859
+11818,2,42593,"Hospital Tiwi Nakara",1,,11859
+11818,2,42637,"Hospital Tiwi Nakara",1,,11859
+11818,2,42681,"Hospital Tiwi Nakara",1,,11859
+11818,2,42725,"Hospital Tiwi Nakara",1,,11859
+11818,4,42770,"Hospital Tiwi Nakara",1,,11859
+11818,4,42814,"Hospital Tiwi Nakara",1,,11859
+11818,4,42858,"Hospital Tiwi Nakara",1,,11859
+11818,4,42902,"Hospital Tiwi Nakara",1,,11859
+11818,4,42946,"Hospital Tiwi Nakara",1,,11859
+11818,4,42990,"Hospital Tiwi Nakara",1,,11859
+11818,4,43034,"Hospital Tiwi Nakara",1,,11859
+11818,4,43078,"Hospital Tiwi Nakara",1,,11859
+11818,4,43122,"Hospital Tiwi Nakara",1,,11859
+11818,4,43166,"Hospital Tiwi Nakara",1,,11859
+11818,4,43210,"Hospital Tiwi Nakara",1,,11859
+11818,4,43254,"Hospital Tiwi Nakara",1,,11859
+11818,4,43298,"Hospital Tiwi Nakara",1,,11859
+11818,4,43342,"Hospital Tiwi Nakara",1,,11859
+11818,4,43386,"Hospital Tiwi Nakara",1,,11859
+11818,6,43431,"Hospital Tiwi Nakara",1,,11859
+11818,6,43475,"Hospital Tiwi Nakara",1,,11859
+11921,6,43519,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,43541,"Hospital Tiwi Nakara",1,,11859
+11818,6,43585,"Hospital Tiwi Nakara",1,,11859
+11818,6,43629,"Hospital Tiwi Nakara",1,,11859
+11921,6,43673,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,43695,"Hospital Tiwi Nakara",1,,11859
+11921,6,43739,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,43761,"Hospital Tiwi Nakara",1,,11859
+11921,6,43805,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,43827,"Hospital Tiwi Nakara",1,,11859
+11921,6,43871,"Royal Darwin Hospital, Tiwi",1,,11922
+11921,6,43893,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,43915,"Hospital Tiwi Nakara",1,,11859
+11921,6,43959,"Royal Darwin Hospital, Tiwi",1,,11922
+11921,6,43981,"Royal Darwin Hospital, Tiwi",1,,11922
+11921,6,44003,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,44025,"Hospital Tiwi Nakara",1,,11859
+11921,6,44069,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,44091,"Hospital Tiwi Nakara",1,,11859
+11921,6,44135,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,44157,"Hospital Tiwi Nakara",1,,11859
+11921,6,44201,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,44223,"Hospital Tiwi Nakara",1,,11859
+11921,6,44267,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,44289,"Hospital Tiwi Nakara",1,,11859
+11818,6,44333,"Hospital Tiwi Nakara",1,,11859
+11921,6,44377,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,44399,"Hospital Tiwi Nakara",1,,11859
+11818,6,44443,"Hospital Tiwi Nakara",1,,11859
+11818,6,44487,"Hospital Tiwi Nakara",1,,11859
+11921,6,44531,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,44553,"Hospital Tiwi Nakara",1,,11859
+11921,6,44597,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,44619,"Hospital Tiwi Nakara",1,,11859
+11818,6,44663,"Hospital Tiwi Nakara",1,,11859
+11818,6,44707,"Hospital Tiwi Nakara",1,,11859
+11921,6,44751,"Royal Darwin Hospital, Tiwi",1,,11922
+11921,6,44773,"Royal Darwin Hospital, Tiwi",1,,11922
+11818,6,44795,"Hospital Tiwi Nakara",1,,11859
+11818,6,44839,"Hospital Tiwi Nakara",1,,11859
+11818,6,44883,"Hospital Tiwi Nakara",1,,11859
+11921,6,44927,"Royal Darwin Hospital, Tiwi",1,,11922
+17260,6,45048,"Darwin Interchange Express",1,,17341
+17459,6,45100,"Darwin Interchange Express",1,,17460
+17542,6,45237,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45271,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45305,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45339,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45373,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45407,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45441,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45475,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45509,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45543,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45577,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45611,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45645,"Wanguri, Lyons, Muirhead",1,,17543
+17542,6,45679,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,45714,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,45748,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,45782,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,45816,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,45850,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,45884,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,45918,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,45952,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,45986,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,46020,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,46054,"Wanguri, Lyons, Muirhead",1,,17543
+17542,4,46088,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46123,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46157,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46191,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46225,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46259,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46293,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46327,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46361,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46395,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46429,"Wanguri, Lyons, Muirhead",1,,17543
+17542,2,46463,"Wanguri, Lyons, Muirhead",1,,17543
+17577,6,46498,"Darwin Interchange Semi Express",1,,17578
+17708,6,46557,"Darwin Interchange Express",1,,17741
+17708,6,46573,"Darwin Interchange Express",1,,17741
+17708,6,46589,"Darwin Interchange Express",1,,17741
+11944,2,46606,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,46664,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,46722,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,46780,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,46838,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,46896,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,46954,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,47012,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,47070,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,47128,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,47186,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,2,47244,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47303,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47361,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47419,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47477,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47535,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47593,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47651,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47709,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47767,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47825,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47883,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47941,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,4,47999,"Wanguri, Leanyer, Malak, Northlakes, Wagaman",1,,12067
+11944,6,48058,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48110,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48162,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48214,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48266,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48318,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48370,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48422,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48474,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48526,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48578,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48630,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48682,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48734,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48786,"Wanguri, Leanyer, Wagaman",1,,11945
+11944,6,48838,"Wanguri, Leanyer, Wagaman",1,,11945
+12125,2,48974,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,2,49046,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,2,49118,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,2,49188,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,2,49258,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,2,49328,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,2,49398,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,2,49468,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,2,49538,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,2,49608,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,2,49680,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,2,49752,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,4,49825,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,4,49897,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,4,49969,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,4,50041,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,4,50111,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,4,50181,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,4,50251,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,4,50321,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,4,50391,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,4,50461,"Millner, Marrara Sporting Complex, Moil Anula",1,,12718
+12125,4,50531,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,4,50603,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,4,50675,"Millner, Henry Wrigley Dr, Marrara Sporting Complex, Moil, Anula",1,,12282
+12125,6,50748,"Jingili, Moil, Anula",1,,12164
+12125,6,50796,"Jingili, Henry Wrigley Dr, Moil, Anula",1,,12472
+12125,6,50852,"Jingili, Henry Wrigley Dr, Moil, Anula",1,,12472
+12125,6,50908,"Jingili, Henry Wrigley Dr,  Marrara Sporting Complex, Moil, Anula",1,,12654
+12125,6,50972,"Jingili, Moil, Anula",1,,12164
+12125,6,51020,"Jingili, Moil, Anula",1,,12164
+12125,6,51068,"Jingili, Moil, Anula",1,,12164
+12125,6,51116,"Jingili, Moil, Anula",1,,12164
+12125,6,51164,"Jingili, Henry Wrigley Dr, Moil, Anula",1,,12472
+12125,6,51220,"Jingili, Moil, Anula",1,,12164
+12125,6,51268,"Jingili, Moil, Anula",1,,12164
+12125,6,51316,"Jingili, Marrara Sporting Complex, Moil, Anula",1,,12354
+12125,6,51378,"Jingili, Marrara Sporting Complex, Moil, Anula",1,,12354
+12125,6,51440,"Jingili, Henry Wrigley Dr,  Marrara Sporting Complex, Moil, Anula",1,,12654
+12125,6,51504,"Jingili, Henry Wrigley Dr,  Marrara Sporting Complex, Moil, Anula",1,,12654
+12125,6,51568,"Jingili, Henry Wrigley Dr,  Marrara Sporting Complex, Moil, Anula",1,,12654
+12125,6,51632,"Jingili, Marrara Sporting Complex, Moil, Anula",1,,12354
+12125,6,51694,"Jingili, Marrara Sporting Complex, Moil, Anula",1,,12354
+24036,4,51793,"Noonamah Virginia Coolalinga Palmerston Humpty Doo",1,,24131
+24036,4,51891,"Noonamah Virginia Coolalinga Palmerston Humpty Doo",1,,24131
+24036,6,51990,"Noonamah Virginia Coolalinga Palmerston Humpty Doo",1,,24131
+24036,6,52088,"Noonamah Virginia Coolalinga Palmerston Humpty Doo",1,,24131
+24434,4,52231,"Palmerston via Cox Peninsula Rd",1,,24435
+24434,4,52263,"Palmerston via Cox Peninsula Rd",1,,24435
+24434,6,52296,"Palmerston via Cox Peninsula Rd",1,,24435
+24434,6,52328,"Palmerston via Cox Peninsula Rd/Bees Creek Schools",1,,24501
+24713,4,52365,"Palmerston via Virginia",1,,24714
+24713,6,52394,"Palmerston via Virginia",1,,24714
+24713,6,52422,"Palmerston via Virginia",1,,24714
+24808,4,52451,"Palmerston via Girraween/Howard Springs",1,,24809
+24808,4,52471,"Palmerston via Girraween/Howard Springs",1,,24809
+24808,6,52492,"Palmerston via Girraween/Howard Springs",1,,24809
+24808,6,52512,"Palmerston via Girraween/Howard Springs",1,,24851
+24808,6,52540,"Palmerston via Coolalinga Express",1,,24839
+24899,4,52553,"Palmerston via Girraween/Howard Springs",1,,24900
+24899,6,52588,"Palmerston via Girraween/Howard Springs",1,,24900
+12788,2,52628,"Darwin via Nightcliff/Parap",1,,13113
+12788,2,52702,"Darwin via Nightcliff/Parap",1,,13113
+12788,2,52776,"Darwin via Nightcliff/Parap",1,,13113
+12788,2,52850,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,2,52926,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,2,53002,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,2,53078,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,2,53154,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,2,53230,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,2,53306,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,2,53382,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,2,53458,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,2,53534,"Darwin via Nightcliff/Museum",1,,13263
+12788,2,53606,"Darwin via Nightcliff/Museum",1,,13263
+12788,2,53678,"Darwin via Nightcliff/Museum",1,,13263
+12788,2,53750,"Darwin via Nightcliff/Museum",1,,13263
+12788,2,53822,"Darwin via Nightcliff/Museum",1,,13263
+12788,2,53894,"Darwin via Nightcliff/Museum",1,,13263
+12788,2,53966,"Darwin via Nightcliff",1,,12863
+12788,2,54036,"Darwin via Nightcliff",1,,12863
+12788,2,54106,"Darwin via Nightcliff",1,,12863
+12788,2,54176,"Darwin via Nightcliff",1,,12863
+12788,4,54247,"Darwin via Nightcliff/Parap",1,,13113
+12788,4,54321,"Darwin via Nightcliff/Parap",1,,13113
+12788,4,54395,"Darwin via Nightcliff/Parap",1,,13113
+12788,4,54469,"Darwin via Nightcliff/Parap",1,,13113
+12788,4,54543,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,4,54619,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,4,54695,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,4,54771,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,4,54847,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,4,54923,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,4,54999,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,4,55075,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,4,55151,"Darwin via Nightcliff/Parap/Museum",1,,13187
+12788,4,55227,"Darwin via Nightcliff/Museum",1,,13263
+12788,4,55299,"Darwin via Nightcliff/Museum",1,,13263
+12788,4,55371,"Darwin via Nightcliff/Museum",1,,13263
+12788,4,55443,"Darwin via Nightcliff/Museum",1,,13263
+12788,4,55515,"Darwin via Nightcliff/Museum",1,,13263
+12788,4,55587,"Darwin via Nightcliff/Museum",1,,13263
+12788,4,55659,"Darwin via Nightcliff",1,,12863
+12788,4,55729,"Darwin via Nightcliff",1,,12863
+12788,4,55799,"Darwin via Nightcliff",1,,12863
+12788,4,55869,"Darwin via Nightcliff",1,,12863
+12788,4,55939,"Darwin via Nightcliff",1,,12863
+12788,4,56009,"Darwin via Nightcliff",1,,12863
+12788,4,56079,"Darwin via Nightcliff",1,,12863
+12788,4,56149,"Darwin via Nightcliff",1,,12863
+12788,6,56220,"Darwin via Nightcliff",1,,12793
+12788,6,56290,"Darwin via Nightcliff",1,,12793
+12788,6,56360,"Darwin via Nightcliff",1,,12793
+12788,6,56430,"Darwin via Nightcliff/Ludmilla",1,,12933
+12788,6,56504,"Darwin via Nightcliff",1,,12793
+12788,6,56574,"Darwin via Nightcliff/Essington",1,,13025
+12788,6,56646,"Darwin via Nightcliff/Ludmilla",1,,12933
+12788,6,56720,"Darwin via Nightcliff",1,,12793
+12788,6,56790,"Darwin via Nightcliff",1,,12793
+12788,6,56860,"Darwin via Nightcliff",1,,12793
+12788,6,56930,"Darwin via Nightcliff",1,,12793
+12788,6,57000,"Darwin via Nightcliff",1,,12793
+12788,6,57070,"Darwin via Nightcliff",1,,12793
+12788,6,57140,"Darwin via Nightcliff",1,,12793
+12788,6,57210,"Darwin via Nightcliff",1,,12793
+12788,6,57280,"Darwin via Nightcliff",1,,12793
+12788,6,57350,"Darwin via Nightcliff",1,,12793
+12788,6,57420,"Darwin via Nightcliff",1,,12793
+12788,6,57490,"Darwin via Nightcliff",1,,12793
+12788,6,57560,"Darwin via Nightcliff",1,,12793
+12788,6,57630,"Darwin via Nightcliff",1,,12793
+12788,6,57700,"Darwin via Nightcliff",1,,12793
+12788,6,57770,"Darwin via Nightcliff",1,,12793
+12788,6,57840,"Darwin via Nightcliff",1,,12793
+12788,6,57910,"Darwin via Nightcliff",1,,12793
+12788,6,57980,"Darwin via Nightcliff",1,,12793
+12788,6,58050,"Darwin via Nightcliff",1,,12793
+12788,6,58120,"Darwin via Nightcliff",1,,12793
+12788,6,58190,"Darwin via Nightcliff",1,,12793
+12788,6,58260,"Darwin via Nightcliff",1,,12793
+12788,6,58330,"Darwin via Nightcliff",1,,12793
+12788,6,58400,"Darwin via Nightcliff",1,,12793
+12788,6,58470,"Darwin via Nightcliff",1,,12793
+12788,6,58540,"Darwin via Nightcliff",1,,12793
+12788,6,58610,"Darwin via Nightcliff",1,,12793
+12788,6,58680,"Darwin via Nightcliff",1,,12793
+12788,6,58750,"Darwin via Nightcliff",1,,12793
+12788,6,58820,"Darwin via Nightcliff",1,,12793
+12788,6,58890,"Darwin via Nightcliff",1,,12793
+12788,3,58960,"Darwin via Nightcliff",1,,12793
+12788,3,59030,"Darwin via Nightcliff",1,,12793
+14001,6,59325,"Darwin via Winnellie",1,,14002
+14001,6,59411,"Darwin via Winnellie",1,,14002
+14001,6,59497,"Darwin via Winnellie",1,,14002
+14001,6,59583,"Darwin via Winnellie",1,,14002
+14001,6,59669,"Darwin via Winnellie",1,,14002
+14001,6,59755,"Darwin via Crocodylus",1,,14266
+14001,6,59843,"Darwin via Winnellie",1,,14002
+14001,6,59929,"Darwin via Crocodylus",1,,14266
+14001,6,60017,"Darwin via Marrara Christian & Steiner Schools",1,,14178
+14001,6,60105,"Darwin via Crocodylus",1,,14266
+14001,6,60193,"Darwin via Winnellie",1,,14002
+14001,6,60279,"Darwin via Winnellie",1,,14002
+14001,6,60365,"Darwin via Winnellie",1,,14002
+14001,6,60451,"Darwin via Winnellie",1,,14002
+14756,6,60706,"Parap, Darwin",1,,15055
+14756,6,60740,"Museum Fannie Bay Parap",1,,14757
+14756,6,60794,"Museum Fannie Bay Parap",1,,14757
+14756,6,60848,"Museum Fannie Bay Parap",1,,14757
+14756,6,60902,"Museum Fannie Bay Parap",1,,14757
+14756,6,60956,"Museum Fannie Bay Parap",1,,14757
+14756,6,61010,"Museum Fannie Bay Parap",1,,14757
+14756,6,61064,"Museum Fannie Bay Parap",1,,14757
+14756,6,61118,"Darwin Interchange to Darwin Interchange",1,,14997
+14756,6,61176,"Museum Fannie Bay Parap",1,,14757
+14756,6,61230,"Museum Fannie Bay Parap",1,,14757
+20253,2,61285,"Driver, Moulden",1,,20344
+20253,2,61329,"Driver, Moulden",1,,20344
+20253,2,61373,"Driver, Moulden",1,,20344
+20253,2,61417,"Driver, Moulden",1,,20344
+20253,2,61461,"Driver, Moulden",1,,20344
+20253,2,61505,"Driver, Moulden",1,,20344
+20253,2,61549,"Driver, Moulden",1,,20344
+20253,2,61593,"Driver, Moulden",1,,20344
+20253,2,61637,"Driver, Moulden",1,,20344
+20253,2,61681,"Driver, Moulden",1,,20344
+20253,2,61725,"Driver, Moulden",1,,20344
+20253,2,61769,"Driver, Moulden",1,,20344
+20253,4,61814,"Driver, Moulden",1,,20344
+20253,4,61858,"Driver, Moulden",1,,20344
+20253,4,61902,"Driver, Moulden",1,,20344
+20253,4,61946,"Driver, Moulden",1,,20344
+20253,4,61990,"Driver, Moulden",1,,20344
+20253,4,62034,"Driver, Moulden",1,,20344
+20253,4,62078,"Driver, Moulden",1,,20344
+20253,4,62122,"Driver, Moulden",1,,20344
+20253,4,62166,"Driver, Moulden",1,,20344
+20253,4,62210,"Driver, Moulden",1,,20344
+20253,4,62254,"Driver, Moulden",1,,20344
+20253,4,62298,"Driver, Moulden",1,,20344
+20253,4,62342,"Driver, Moulden",1,,20344
+20253,4,62386,"Driver, Moulden",1,,20344
+20253,4,62430,"Driver, Moulden",1,,20344
+20253,4,62474,"Driver, Moulden",1,,20344
+20253,4,62518,"Driver, Moulden",1,,20344
+20253,6,62563,"Driver, Moulden",1,,20344
+20253,6,62607,"Driver, Moulden",1,,20344
+20253,6,62651,"Driver, Moulden",1,,20344
+20253,6,62695,"Driver, Moulden, Palmerston Christian School",1,,20436
+20253,6,62743,"Driver, Moulden",1,,20344
+20253,6,62787,"Driver, Moulden",1,,20344
+20253,6,62831,"Driver, Moulden",1,,20344
+20253,6,62875,"Driver, Moulden",1,,20344
+20253,6,62919,"Driver, Moulden",1,,20344
+20253,6,62963,"Driver, Moulden",1,,20344
+20253,6,63007,"Driver, Moulden",1,,20344
+20253,6,63051,"Driver, Moulden",1,,20344
+20253,6,63095,"Driver, Moulden",1,,20344
+20253,6,63139,"Driver, Moulden",1,,20344
+20253,6,63183,"Driver, Moulden",1,,20344
+20253,6,63227,"Driver, Moulden",1,,20344
+20253,6,63271,"Driver, Moulden",1,,20344
+20253,6,63315,"Driver, Moulden",1,,20344
+20253,6,63359,"Driver, Moulden",1,,20344
+20253,6,63403,"Driver, Moulden",1,,20344
+20253,6,63447,"Driver, Moulden",1,,20344
+20253,6,63491,"Driver, Moulden",1,,20344
+20253,6,63535,"Driver, Moulden",1,,20344
+20253,6,63579,"Driver, Moulden",1,,20344
+20253,6,63623,"Driver, Moulden",1,,20344
+20253,6,63667,"Driver, Moulden",1,,20344
+20253,6,63711,"Driver, Moulden",1,,20344
+20253,6,63755,"Driver, Moulden",1,,20344
+20484,2,63800,"Woodroffe, Gray",1,,20599
+20484,2,63860,"Woodroffe, Gray",1,,20599
+20484,2,63920,"Woodroffe, Gray",1,,20599
+20484,2,63980,"Woodroffe, Gray",1,,20599
+20484,2,64040,"Woodroffe, Gray",1,,20599
+20484,2,64100,"Woodroffe, Gray",1,,20599
+20484,2,64160,"Woodroffe, Gray",1,,20599
+20484,2,64220,"Woodroffe, Gray",1,,20599
+20484,2,64280,"Woodroffe, Gray",1,,20599
+20484,2,64340,"Woodroffe, Gray",1,,20599
+20484,2,64400,"Woodroffe, Gray",1,,20599
+20484,2,64460,"Woodroffe, Gray",1,,20599
+20484,4,64521,"Woodroffe, Gray",1,,20599
+20484,4,64581,"Woodroffe, Gray",1,,20599
+20484,4,64641,"Woodroffe, Gray",1,,20599
+20484,4,64701,"Woodroffe, Gray",1,,20599
+20484,4,64761,"Woodroffe, Gray",1,,20599
+20484,4,64821,"Woodroffe, Gray",1,,20599
+20484,4,64881,"Woodroffe, Gray",1,,20599
+20484,4,64941,"Woodroffe, Gray",1,,20599
+20484,4,65001,"Woodroffe, Gray",1,,20599
+20484,4,65061,"Woodroffe, Gray",1,,20599
+20484,4,65121,"Woodroffe, Gray",1,,20599
+20484,4,65181,"Woodroffe, Gray",1,,20599
+20484,4,65241,"Woodroffe, Gray",1,,20599
+20484,4,65301,"Woodroffe, Gray",1,,20599
+20484,4,65361,"Woodroffe, Gray",1,,20599
+20484,4,65421,"Woodroffe, Gray",1,,20599
+20484,4,65481,"Woodroffe, Gray",1,,20599
+20484,6,65542,"Woodroffe, Gray",1,,20599
+20484,6,65602,"Woodroffe, Gray",1,,20599
+20484,6,65662,"Woodroffe, Gray",1,,20599
+20484,6,65722,"Woodroffe, Gray",1,,20599
+20484,6,65782,"Woodroffe, Gray",1,,20599
+20484,6,65842,"Woodroffe, Gray",1,,20599
+20484,6,65902,"Woodroffe, Gray",1,,20599
+20484,6,65962,"Woodroffe, Gray",1,,20599
+20484,6,66022,"Woodroffe, Gray",1,,20599
+20484,6,66082,"Woodroffe, Gray",1,,20599
+20484,6,66142,"Woodroffe, Gray",1,,20599
+20484,6,66202,"Woodroffe, Gray",1,,20599
+20484,6,66262,"Woodroffe, Gray",1,,20599
+20484,6,66322,"Woodroffe, Gray",1,,20599
+20484,6,66382,"Woodroffe, Gray",1,,20599
+20484,6,66442,"Woodroffe, Gray",1,,20599
+20484,6,66502,"Woodroffe, Gray",1,,20599
+20484,6,66562,"Woodroffe, Gray",1,,20599
+20484,6,66622,"Woodroffe, Gray",1,,20599
+20484,6,66682,"Woodroffe, Gray",1,,20599
+20484,6,66742,"Woodroffe, Gray",1,,20599
+20484,6,66802,"Woodroffe, Gray",1,,20599
+20484,6,66862,"Woodroffe, Gray",1,,20599
+20484,6,66922,"Woodroffe, Gray",1,,20599
+20484,6,66982,"Woodroffe, Gray",1,,20599
+20484,6,67042,"Woodroffe, Gray",1,,20599
+20484,6,67102,"Woodroffe, Gray",1,,20599
+20484,6,67162,"Woodroffe, Gray",1,,20599
+20484,6,67222,"Woodroffe, Gray",1,,20599
+20659,2,67283,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67319,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67355,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67391,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67427,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67463,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67499,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67535,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67571,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67607,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67643,"Gunn, Bakewell, Rosebery",1,,20764
+20659,2,67679,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,67716,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,67752,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,67788,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,67824,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,67860,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,67896,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,67932,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,67968,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,68004,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,68040,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,68076,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,68112,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,68148,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,68184,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,68220,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,68256,"Gunn, Bakewell, Rosebery",1,,20764
+20659,4,68292,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68329,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68365,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68401,"Gunn, Bakewell Primary, Rosebery",1,,20836
+20659,6,68439,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68475,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68511,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68547,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68583,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68619,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68655,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68691,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68727,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68763,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68799,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68835,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68871,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68907,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68943,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,68979,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,69015,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,69051,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,69087,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,69123,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,69159,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,69195,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,69231,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,69267,"Gunn, Bakewell, Rosebery",1,,20764
+20659,6,69303,"Gunn, Bakewell, Rosebery",1,,20764
+20874,2,69340,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69372,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69404,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69436,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69468,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69500,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69532,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69564,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69596,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69628,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69660,"Durack, CDU Palmerston Campus",1,,20961
+20874,2,69692,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,69725,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,69757,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,69789,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,69821,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,69853,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,69885,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,69917,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,69949,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,69981,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,70013,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,70045,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,70077,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,70109,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,70141,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,70173,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,70205,"Durack, CDU Palmerston Campus",1,,20961
+20874,4,70237,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70270,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70302,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70334,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70366,"Durack Primary, CDU Palmerston Campus",1,,21019
+20874,6,70394,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70426,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70458,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70490,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70522,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70554,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70586,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70618,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70650,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70682,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70714,"Durack Primary, CDU Palmerston Campus",1,,21019
+20874,6,70742,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70774,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70806,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70838,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70870,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70902,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70934,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70966,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,70998,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,71030,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,71062,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,71094,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,71126,"Durack, CDU Palmerston Campus",1,,20961
+20874,6,71158,"Durack, CDU Palmerston Campus",1,,20961
+21298,2,71191,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71239,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71287,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71335,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71383,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71431,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71479,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71527,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71575,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71623,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71671,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,2,71719,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21057,6,71768,"Zuccoli including Silverleaf",1,,21184
+21057,6,71814,"Zuccoli including Silverleaf",1,,21184
+21057,6,71860,"Zuccoli including Silverleaf",1,,21184
+21057,6,71906,"Zuccoli including Silverleaf",1,,21184
+21057,6,71952,"Zuccoli including Silverleaf",1,,21184
+21057,6,71998,"Zuccoli including Silverleaf",1,,21184
+21057,6,72044,"Zuccoli including Silverleaf",1,,21184
+21057,6,72090,"Zuccoli including Silverleaf",1,,21184
+21057,6,72136,"Zuccoli including Silverleaf",1,,21184
+21057,6,72182,"Zuccoli including Silverleaf",1,,21184
+21057,6,72228,"Zuccoli including Silverleaf",1,,21184
+21057,6,72274,"Zuccoli including Silverleaf",1,,21184
+21057,6,72320,"Zuccoli including Silverleaf",1,,21184
+21057,6,72366,"Zuccoli including Silverleaf",1,,21184
+21057,6,72412,"Zuccoli including Silverleaf",1,,21184
+21057,6,72458,"Zuccoli including Silverleaf",1,,21184
+21057,6,72504,"Zuccoli including Silverleaf",1,,21184
+21057,6,72550,"Zuccoli including Silverleaf",1,,21184
+21057,6,72596,"Zuccoli including Silverleaf",1,,21184
+21057,6,72642,"Zuccoli including Silverleaf",1,,21184
+21057,6,72688,"Zuccoli including Silverleaf",1,,21184
+21057,6,72734,"Zuccoli including Silverleaf",1,,21184
+21298,4,72781,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,72829,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,72877,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,72925,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,72973,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73021,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73069,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73117,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73165,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73213,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73261,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73309,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73357,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73405,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73453,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21298,4,73501,"Farrar Johnston Zuccoli via Tuckeroo Blvd",1,,21341
+21389,6,73550,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73578,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73606,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73634,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73662,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73690,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73718,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73746,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73774,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73802,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73830,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21389,6,73858,"Bakewell, Rosebery, Bellamack, Moulden, Driver",1,,21390
+21418,6,73887,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,73927,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,73967,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74007,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74047,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74087,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74127,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74167,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74207,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74247,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74287,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74327,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74367,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74407,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74447,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74487,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74527,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74567,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74607,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74647,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74687,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,6,74727,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,74768,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,74808,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,74848,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,74888,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,74928,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,74968,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,75008,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,75048,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,75088,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,75128,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,75168,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,75208,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,75248,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,75288,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,4,75328,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,2,75369,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,2,75409,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,2,75449,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,2,75489,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,2,75529,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,2,75569,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,2,75609,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,2,75649,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,2,75689,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21418,2,75729,"Indigenous Village, Rosebery, Bellamack",1,,21497
+21537,6,75770,"Kokoda Industries",1,,21538
+21537,6,75776,"Kokoda Industries",1,,21538
+15151,6,75783,"Stuart Park, Bayview",1,,15162
+15151,6,75823,"Stuart Park, Bayview",1,,15162
+15151,6,75863,"Stuart Park, Bayview",1,,15162
+15151,6,75903,"Stuart Park, Bayview",1,,15162
+15151,6,75943,"Stuart Park, Bayview",1,,15162
+15151,6,75983,"Stuart Park, Bayview",1,,15162
+15151,6,76023,"Stuart Park, Bayview",1,,15162
+15151,6,76063,"Stuart Park, Bayview",1,,15162
+15151,6,76103,"Darwin Interchange to Darwin Interchange",1,,15240
+15151,6,76143,"Stuart Park, Bayview",1,,15162
+15151,6,76183,"Stuart Park, Bayview",1,,15162
+21577,2,76224,"Durack Heights",1,,21578
+21577,2,76238,"Durack Heights",1,,21578
+21577,2,76252,"Durack Heights",1,,21578
+21577,2,76266,"Durack Heights",1,,21578
+21577,2,76280,"Durack Heights",1,,21578
+21577,2,76294,"Durack Heights",1,,21578
+21577,2,76308,"Durack Heights",1,,21578
+21577,2,76322,"Durack Heights",1,,21578
+21577,2,76336,"Durack Heights",1,,21578
+21577,2,76350,"Durack Heights",1,,21578
+21577,2,76364,"Durack Heights",1,,21578
+21577,2,76378,"Durack Heights",1,,21578
+21577,4,76393,"Durack Heights",1,,21578
+21577,4,76407,"Durack Heights",1,,21578
+21577,4,76421,"Durack Heights",1,,21578
+21577,4,76435,"Durack Heights",1,,21578
+21577,4,76449,"Durack Heights",1,,21578
+21577,4,76463,"Durack Heights",1,,21578
+21577,4,76477,"Durack Heights",1,,21578
+21577,4,76491,"Durack Heights",1,,21578
+21577,4,76505,"Durack Heights",1,,21578
+21577,4,76519,"Durack Heights",1,,21578
+21577,4,76533,"Durack Heights",1,,21578
+21577,4,76547,"Durack Heights",1,,21578
+21577,4,76561,"Durack Heights",1,,21578
+21577,6,76576,"Durack Heights",1,,21578
+21577,6,76590,"Durack Heights",1,,21578
+21577,6,76604,"Durack Heights",1,,21578
+21577,6,76618,"Durack Heights",1,,21578
+21577,6,76632,"Durack Heights",1,,21578
+21577,6,76646,"Durack Heights",1,,21578
+21577,6,76660,"Durack Heights",1,,21578
+21577,6,76674,"Durack Heights",1,,21578
+21577,6,76688,"Durack Heights",1,,21578
+21577,6,76702,"Durack Heights",1,,21578
+21577,6,76716,"Durack Heights",1,,21578
+21577,6,76730,"Durack Heights",1,,21578
+21577,6,76744,"Durack Heights",1,,21578
+21577,6,76758,"Durack Heights",1,,21578
+21577,6,76772,"Durack Heights",1,,21578
+21577,6,76786,"Durack Heights",1,,21578
+21577,6,76800,"Durack Heights",1,,21578
+21577,6,76814,"Durack Heights",1,,21578
+21577,6,76828,"Durack Heights",1,,21578
+21577,6,76842,"Durack Heights",1,,21578
+21577,6,76856,"Durack Heights",1,,21578
+21577,6,76870,"Durack Heights",1,,21578
+21577,6,76884,"Durack Heights",1,,21578
+21592,2,76899,"Palmerston Hospital",1,,21593
+21592,2,76905,"Palmerston Hospital",1,,21593
+21592,2,76911,"Palmerston Hospital",1,,21593
+21592,2,76917,"Palmerston Hospital",1,,21593
+21592,2,76923,"Palmerston Hospital",1,,21593
+21592,2,76929,"Palmerston Hospital",1,,21593
+21592,2,76935,"Palmerston Hospital",1,,21593
+21592,2,76941,"Palmerston Hospital",1,,21593
+21592,2,76947,"Palmerston Hospital",1,,21593
+21592,2,76953,"Palmerston Hospital",1,,21593
+21592,2,76959,"Palmerston Hospital",1,,21593
+21592,2,76965,"Palmerston Hospital",1,,21593
+21592,4,76972,"Palmerston Hospital",1,,21593
+21592,4,76978,"Palmerston Hospital",1,,21593
+21592,4,76984,"Palmerston Hospital",1,,21593
+21592,4,76990,"Palmerston Hospital",1,,21593
+21592,4,76996,"Palmerston Hospital",1,,21593
+21592,4,77002,"Palmerston Hospital",1,,21593
+21592,4,77008,"Palmerston Hospital",1,,21593
+21592,4,77014,"Palmerston Hospital",1,,21593
+21592,4,77020,"Palmerston Hospital",1,,21593
+21592,4,77026,"Palmerston Hospital",1,,21593
+21592,4,77032,"Palmerston Hospital",1,,21593
+21592,4,77038,"Palmerston Hospital",1,,21593
+21592,4,77044,"Palmerston Hospital",1,,21593
+21592,4,77050,"Palmerston Hospital",1,,21593
+21592,4,77056,"Palmerston Hospital",1,,21593
+21592,4,77062,"Palmerston Hospital",1,,21593
+21592,4,77068,"Palmerston Hospital",1,,21593
+21592,4,77074,"Palmerston Hospital",1,,21593
+21592,6,77081,"Palmerston Hospital",1,,21593
+21592,6,77087,"Palmerston Hospital",1,,21593
+21592,6,77093,"Palmerston Hospital",1,,21593
+21592,6,77099,"Palmerston Hospital",1,,21593
+21592,6,77105,"Palmerston Hospital",1,,21593
+21592,6,77111,"Palmerston Hospital",1,,21593
+21592,6,77117,"Palmerston Hospital",1,,21593
+21592,6,77123,"Palmerston Hospital",1,,21593
+21592,6,77129,"Palmerston Hospital",1,,21593
+21592,6,77135,"Palmerston Hospital",1,,21593
+21592,6,77141,"Palmerston Hospital",1,,21593
+21592,6,77147,"Palmerston Hospital",1,,21593
+21592,6,77153,"Palmerston Hospital",1,,21593
+21592,6,77159,"Palmerston Hospital",1,,21593
+21592,6,77165,"Palmerston Hospital",1,,21593
+21592,6,77171,"Palmerston Hospital",1,,21593
+21592,6,77177,"Palmerston Hospital",1,,21593
+21592,6,77183,"Palmerston Hospital",1,,21593
+21592,6,77189,"Palmerston Hospital",1,,21593
+21592,6,77195,"Palmerston Hospital",1,,21593
+21592,6,77201,"Palmerston Hospital",1,,21593
+21592,6,77207,"Palmerston Hospital",1,,21593
+21592,6,77213,"Palmerston Hospital",1,,21593
+21592,6,77219,"Palmerston Hospital",1,,21593
+21592,6,77225,"Palmerston Hospital",1,,21593
+21592,6,77231,"Palmerston Hospital",1,,21593
+21592,6,77237,"Palmerston Hospital",1,,21593
+15280,2,77244,"Darwin",1,,15285
+15280,2,77300,"Darwin",1,,15285
+15280,2,77356,"Darwin",1,,15285
+15280,2,77412,"Darwin",1,,15285
+15280,2,77468,"Darwin",1,,15285
+15280,2,77524,"Darwin",1,,15285
+15280,2,77580,"Darwin",1,,15285
+15280,2,77636,"Darwin",1,,15285
+15280,2,77692,"Darwin",1,,15285
+15280,2,77748,"Darwin",1,,15285
+15280,2,77804,"Darwin",1,,15285
+15280,2,77860,"Darwin",1,,15285
+15280,2,77916,"Darwin",1,,15285
+15280,4,77973,"Darwin",1,,15285
+15280,4,78029,"Darwin",1,,15285
+15280,4,78085,"Darwin",1,,15285
+15280,4,78141,"Darwin",1,,15285
+15280,4,78197,"Darwin",1,,15285
+15280,4,78253,"Darwin",1,,15285
+15280,4,78309,"Darwin",1,,15285
+15280,4,78365,"Darwin",1,,15285
+15280,4,78421,"Darwin",1,,15285
+15280,4,78477,"Darwin",1,,15285
+15280,4,78533,"Darwin",1,,15285
+15280,4,78589,"Darwin",1,,15285
+15280,4,78645,"Darwin",1,,15285
+15280,4,78701,"Darwin",1,,15285
+15280,4,78757,"Darwin",1,,15285
+15280,4,78813,"Darwin",1,,15285
+15280,6,78870,"Darwin",1,,15285
+15280,6,78926,"Darwin",1,,15285
+15280,6,78982,"Darwin",1,,15285
+15280,6,79038,"Darwin",1,,15285
+15280,6,79094,"Darwin via St Marys School",1,,15397
+15280,6,79150,"Darwin",1,,15285
+15280,6,79206,"Darwin",1,,15285
+15280,6,79262,"Darwin",1,,15285
+15280,6,79318,"Darwin",1,,15285
+15280,6,79374,"Darwin",1,,15285
+15280,6,79430,"Darwin",1,,15285
+15280,6,79486,"Darwin",1,,15285
+15280,6,79542,"Darwin",1,,15285
+15280,6,79598,"Darwin",1,,15285
+15280,6,79654,"Darwin",1,,15285
+15280,6,79710,"Darwin",1,,15285
+15280,6,79766,"Darwin",1,,15285
+15280,6,79822,"Darwin",1,,15285
+15280,6,79878,"Darwin",1,,15285
+15280,6,79934,"Darwin",1,,15285
+15280,6,79990,"Darwin",1,,15285
+15280,6,80046,"Darwin",1,,15285
+15280,6,80102,"Darwin",1,,15285
+15280,6,80158,"Darwin",1,,15285
+15280,6,80214,"Darwin",1,,15285
+15280,6,80270,"Darwin",1,,15285
+15280,6,80326,"Darwin",1,,15285
+15280,6,80382,"Darwin",1,,15285
+15769,2,80439,"Casuarina",1,,15770
+15769,2,80495,"Casuarina",1,,15770
+15769,2,80551,"Casuarina",1,,15770
+15769,2,80607,"Casuarina",1,,15770
+15769,2,80663,"Casuarina",1,,15770
+15769,2,80719,"Casuarina",1,,15770
+15769,2,80775,"Casuarina",1,,15770
+15769,2,80831,"Casuarina",1,,15770
+15769,2,80887,"Casuarina",1,,15770
+15769,2,80943,"Casuarina",1,,15770
+15769,2,80999,"Casuarina",1,,15770
+15769,2,81055,"Casuarina",1,,15770
+15769,2,81111,"Casuarina",1,,15770
+15769,4,81168,"Casuarina",1,,15770
+15769,4,81224,"Casuarina",1,,15770
+15769,4,81280,"Casuarina",1,,15770
+15769,4,81336,"Casuarina",1,,15770
+15769,4,81392,"Casuarina",1,,15770
+15769,4,81448,"Casuarina",1,,15770
+15769,4,81504,"Casuarina",1,,15770
+15769,4,81560,"Casuarina",1,,15770
+15769,4,81616,"Casuarina",1,,15770
+15769,4,81672,"Casuarina",1,,15770
+15769,4,81728,"Casuarina",1,,15770
+15769,4,81784,"Casuarina",1,,15770
+15769,4,81840,"Casuarina",1,,15770
+15769,4,81896,"Casuarina",1,,15770
+15769,4,81952,"Casuarina",1,,15770
+15769,4,82008,"Casuarina",1,,15770
+15769,6,82065,"Casuarina",1,,15770
+15769,6,82121,"Casuarina",1,,15770
+15769,6,82177,"Casuarina",1,,15770
+15769,6,82233,"Casuarina via Leanyer Dr",1,,15826
+15769,6,82295,"Casuarina",1,,15770
+15769,6,82351,"Casuarina",1,,15770
+15769,6,82407,"Casuarina",1,,15770
+15769,6,82463,"Casuarina",1,,15770
+15769,6,82519,"Casuarina",1,,15770
+15769,6,82575,"Casuarina",1,,15770
+15769,6,82631,"Casuarina",1,,15770
+15769,6,82687,"Casuarina via Crocodylus",1,,15888
+15769,6,82745,"Casuarina",1,,15770
+15769,6,82801,"Casuarina",1,,15770
+15769,6,82857,"Casuarina via Crocodylus",1,,15888
+15769,6,82915,"Casuarina",1,,15770
+15769,6,82971,"Casuarina via Crocodylus",1,,15888
+15769,6,83029,"Casuarina",1,,15770
+15769,6,83085,"Casuarina",1,,15770
+15769,6,83141,"Casuarina",1,,15770
+15769,6,83197,"Casuarina",1,,15770
+15769,6,83253,"Casuarina",1,,15770
+15769,6,83309,"Casuarina",1,,15770
+15769,6,83365,"Casuarina",1,,15770
+15769,6,83421,"Casuarina",1,,15770
+15769,6,83477,"Casuarina",1,,15770
+15769,6,83533,"Casuarina",1,,15770
+16321,2,83661,"Casuarina via Bagot Rd",0,,16406
+16321,2,83707,"Casuarina via Bagot Rd",0,,16406
+16321,2,83753,"Casuarina via Bagot Rd",0,,16406
+16321,2,83799,"Casuarina via Bagot Rd",0,,16406
+16321,2,83845,"Casuarina via Bagot Rd",0,,16406
+16321,2,83891,"Casuarina via Bagot Rd",0,,16406
+16321,2,83937,"Casuarina via Bagot Rd",0,,16406
+16321,2,83983,"Casuarina via Bagot Rd",0,,16406
+16321,2,84029,"Casuarina via Bagot Rd",0,,16406
+16321,2,84075,"Casuarina via Bagot Rd",0,,16406
+16321,2,84121,"Casuarina via Bagot Rd",0,,16406
+16321,2,84167,"Casuarina via Bagot Rd",0,,16406
+16321,2,84213,"Casuarina via Bagot Rd",0,,16406
+16321,2,84259,"Casuarina via Bagot Rd",0,,16406
+16321,2,84305,"Casuarina via Bagot Rd",0,,16406
+16321,2,84351,"Casuarina via Bagot Rd",0,,16406
+16321,2,84397,"Casuarina via Bagot Rd",0,,16406
+16321,2,84443,"Casuarina via Bagot Rd",0,,16406
+16321,2,84489,"Casuarina via Bagot Rd",0,,16406
+16321,2,84535,"Casuarina via Bagot Rd",0,,16406
+16321,2,84581,"Casuarina via Bagot Rd",0,,16406
+16321,2,84627,"Casuarina via Bagot Rd",0,,16406
+16321,2,84673,"Casuarina via Bagot Rd",0,,16406
+16321,2,84719,"Casuarina via Bagot Rd",0,,16406
+16321,4,84766,"Casuarina via Bagot Rd",0,,16406
+16321,4,84812,"Casuarina via Bagot Rd",0,,16406
+16321,4,84858,"Casuarina via Bagot Rd",0,,16406
+16321,4,84904,"Casuarina via Bagot Rd",0,,16406
+16321,4,84950,"Casuarina via Bagot Rd",0,,16406
+16321,4,84996,"Casuarina via Bagot Rd",0,,16406
+16321,4,85042,"Casuarina via Bagot Rd",0,,16406
+16321,4,85088,"Casuarina via Bagot Rd",0,,16406
+16321,4,85134,"Casuarina via Bagot Rd",0,,16406
+16321,4,85180,"Casuarina via Bagot Rd",0,,16406
+16321,4,85226,"Casuarina via Bagot Rd",0,,16406
+16321,4,85272,"Casuarina via Bagot Rd",0,,16406
+16321,4,85318,"Casuarina via Bagot Rd",0,,16406
+16321,4,85364,"Casuarina via Bagot Rd",0,,16406
+16321,4,85410,"Casuarina via Bagot Rd",0,,16406
+16321,4,85456,"Casuarina via Bagot Rd",0,,16406
+16321,4,85502,"Casuarina via Bagot Rd",0,,16406
+16321,4,85548,"Casuarina via Bagot Rd",0,,16406
+16321,4,85594,"Casuarina via Bagot Rd",0,,16406
+16321,4,85640,"Casuarina via Bagot Rd",0,,16406
+16321,4,85686,"Casuarina via Bagot Rd",0,,16406
+16321,4,85732,"Casuarina via Bagot Rd",0,,16406
+16321,4,85778,"Casuarina via Bagot Rd",0,,16406
+16321,4,85824,"Casuarina via Bagot Rd",0,,16406
+16321,4,85870,"Casuarina via Bagot Rd",0,,16406
+16321,4,85916,"Casuarina via Bagot Rd",0,,16406
+16321,4,85962,"Casuarina via Bagot Rd",0,,16406
+16321,4,86008,"Casuarina via Bagot Rd",0,,16406
+16321,4,86054,"Casuarina via Bagot Rd",0,,16406
+16321,6,86101,"Casuarina via Bagot Rd",0,,16406
+16321,6,86147,"Casuarina via Bagot Rd",0,,16406
+16321,6,86193,"Casuarina via Bagot Rd",0,,16406
+16321,6,86239,"Casuarina via Bagot Rd",0,,16406
+16321,6,86285,"Casuarina via Bagot Rd",0,,16406
+16321,6,86331,"Casuarina via Bagot Rd",0,,16406
+16321,6,86377,"Casuarina via Bagot Rd",0,,16406
+16321,6,86423,"Casuarina via Bagot Rd",0,,16406
+16321,6,86469,"Casuarina via Bagot Rd",0,,16406
+16321,6,86515,"Casuarina via Bagot Rd",0,,16406
+16321,6,86561,"Casuarina via Bagot Rd",0,,16406
+16321,6,86607,"Casuarina via Bagot Rd",0,,16406
+16321,6,86653,"Casuarina via Bagot Rd",0,,16406
+16321,6,86699,"Casuarina via Bagot Rd",0,,16406
+16321,6,86745,"Casuarina via Bagot Rd",0,,16406
+16321,6,86791,"Casuarina via Bagot Rd",0,,16406
+16321,6,86837,"Casuarina via Bagot Rd",0,,16406
+16321,6,86883,"Casuarina via Bagot Rd",0,,16406
+16321,6,86929,"Casuarina via Bagot Rd",0,,16406
+16321,6,86975,"Casuarina via Bagot Rd",0,,16406
+16321,6,87021,"Casuarina via Bagot Rd",0,,16406
+16321,6,87067,"Casuarina via Bagot Rd",0,,16406
+16321,6,87113,"Casuarina via Bagot Rd",0,,16406
+16321,6,87159,"Casuarina via Bagot Rd",0,,16406
+16321,6,87205,"Casuarina via Bagot Rd",0,,16406
+16321,6,87251,"Casuarina via Bagot Rd",0,,16406
+16321,6,87297,"Casuarina via Bagot Rd",0,,16406
+16321,6,87343,"Casuarina via Bagot Rd",0,,16406
+16321,6,87389,"Casuarina via Bagot Rd",0,,16406
+16321,6,87435,"Casuarina via Bagot Rd",0,,16406
+16321,6,87481,"Casuarina via Bagot Rd",0,,16452
+16321,6,87529,"Casuarina via Bagot Rd",0,,16406
+16321,6,87575,"Casuarina via Bagot Rd",0,,16406
+16321,6,87621,"Casuarina via Bagot Rd",0,,16406
+16321,6,87667,"Casuarina via Bagot Rd",0,,16406
+16321,6,87713,"Casuarina via Bagot Rd",0,,16406
+16321,6,87759,"Casuarina via Bagot Rd",0,,16406
+16321,6,87805,"Casuarina via Bagot Rd",0,,16406
+16321,6,87851,"Casuarina via Bagot Rd",0,,16406
+16321,6,87897,"Casuarina via Bagot Rd",0,,16406
+16321,6,87943,"Casuarina via Bagot Rd",0,,16406
+16321,6,87989,"Casuarina via Bagot Rd",0,,16406
+16321,6,88035,"Casuarina via Bagot Rd",0,,16406
+16321,6,88081,"Casuarina via Bagot Rd",0,,16406
+16321,6,88127,"Casuarina via Bagot Rd",0,,16406
+16321,6,88173,"Casuarina via Bagot Rd",0,,16406
+16321,3,88219,"Casuarina via Bagot Rd",0,,16406
+16321,3,88265,"Casuarina via Bagot Rd",0,,16406
+16321,3,88311,"Casuarina via Bagot Rd",0,,16406
+17203,5,88383,"Casuarina Interchange",0,,17204
+17203,5,88439,"Casuarina Interchange",0,,17204
+17203,5,88495,"Casuarina Interchange",0,,17204
+17203,5,88551,"Casuarina Interchange",0,,17204
+17260,6,88750,"Darwin Hospital Precinct Express",0,,17425
+17260,6,88784,"Darwin Hospital Precinct Express",0,,17425
+23624,6,88820,"Sanderson Middle School To Casuarina Interchange",0,,23625
+17459,6,88843,"Leanyer Express",0,,17502
+17459,6,88883,"Leanyer Express",0,,17502
+17577,6,89035,"Karama Semi Express",0,,17636
+17577,6,89107,"Karama Semi Express",0,,17636
+17708,6,89180,"Humpty Doo Express",0,,17785
+17708,6,89192,"Humpty Doo Express",0,,17785
+17708,6,89204,"Humpty Doo Express",0,,17785
+24434,4,89511,"Humpty Doo via Noonamah/Cox Peninsula Rd",0,,24575
+24434,4,89557,"Humpty Doo via Noonamah/Cox Peninsula Rd",0,,24575
+24434,6,89604,"Humpty Doo via Noonamah/Cox Peninsula Rd",0,,24575
+24434,6,89650,"Humpty Doo via Noonamah/Cox Peninsula Rd",0,,24575
+24434,6,89696,"Humpty Doo via Noonamah/Cox Peninsula Rd",0,,24575
+24434,6,89742,"Humpty Doo via Noonamah/Cox Peninsula Rd",0,,24575
+24713,4,89789,"Gulnare Rd via Virginia",0,,24746
+24713,4,89819,"Gulnare Rd via Virginia",0,,24746
+24713,6,89850,"Humpty Doo via Virginia",0,,24776
+24713,6,89882,"Gulnare Rd via Virginia",0,,24746
+24713,6,89912,"Gulnare Rd via Virginia",0,,24746
+24808,4,89943,"Humpty Doo via Howard Springs/Girraween",0,,24879
+24808,4,89963,"Humpty Doo via Howard Springs/Girraween",0,,24879
+24808,6,89984,"Humpty Doo via Howard Springs/Girraween",0,,24879
+24808,6,90004,"Humpty Doo via Howard Springs/Girraween",0,,24879
+24808,6,90024,"Humpty Doo via Howard Springs/Girraween",0,,24879
+24808,6,90044,"Humpty Doo via Howard Springs/Girraween",0,,24879
+24899,4,90065,"Humpty Doo via Howard Springs, Girraween",0,,24934
+24899,6,90086,"Humpty Doo via Howard Springs, Girraween",0,,24934
+12788,2,90169,"Casuarina via Parap/Nightcliff",0,,13775
+12788,2,90245,"Casuarina via Parap/Nightcliff",0,,13775
+12788,2,90321,"Casuarina via Parap/Nightcliff",0,,13775
+12788,2,90397,"Casuarina via Parap/Nightcliff",0,,13775
+12788,2,90473,"Casuarina via Parap/Nightcliff",0,,13775
+12788,2,90549,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,2,90627,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,2,90705,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,2,90783,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,2,90861,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,2,90939,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,2,91017,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,2,91095,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,2,91173,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,2,91251,"Casuarina via Museum/Nightcliff",0,,13929
+12788,2,91323,"Casuarina via Museum/Nightcliff",0,,13929
+12788,2,91395,"Casuarina via Museum/Nightcliff",0,,13929
+12788,2,91467,"Casuarina via Museum/Nightcliff",0,,13929
+12788,2,91539,"Casuarina via Museum/Nightcliff",0,,13929
+12788,2,91611,"Casuarina via Museum/Nightcliff",0,,13929
+12788,2,91683,"Casuarina via Nightcliff",0,,13335
+12788,2,91753,"Casuarina via Nightcliff",0,,13335
+12788,2,91823,"Casuarina via Nightcliff",0,,13335
+12788,4,91894,"Casuarina via Parap/Nightcliff",0,,13775
+12788,4,91970,"Casuarina via Parap/Nightcliff",0,,13775
+12788,4,92046,"Casuarina via Parap/Nightcliff",0,,13775
+12788,4,92122,"Casuarina via Parap/Nightcliff",0,,13775
+12788,4,92198,"Casuarina via Parap/Nightcliff",0,,13775
+12788,4,92274,"Casuarina via Parap/Nightcliff",0,,13775
+12788,4,92350,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,4,92428,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,4,92506,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,4,92584,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,4,92662,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,4,92740,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,4,92818,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,4,92896,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,4,92974,"Casuarina via Museum/ Parap/Nightcliff",0,,13851
+12788,4,93052,"Casuarina via Museum/Nightcliff",0,,13929
+12788,4,93124,"Casuarina via Museum/Nightcliff",0,,13929
+12788,4,93196,"Casuarina via Museum/Nightcliff",0,,13929
+12788,4,93268,"Casuarina via Museum/Nightcliff",0,,13929
+12788,4,93340,"Casuarina via Museum/Nightcliff",0,,13929
+12788,4,93412,"Casuarina via Museum/Nightcliff",0,,13929
+12788,4,93484,"Casuarina via Nightcliff",0,,13335
+12788,4,93554,"Casuarina via Nightcliff",0,,13335
+12788,4,93624,"Casuarina via Nightcliff",0,,13335
+12788,4,93694,"Casuarina via Nightcliff",0,,13335
+12788,4,93764,"Casuarina via Nightcliff",0,,13335
+12788,4,93834,"Casuarina via Nightcliff",0,,13335
+12788,4,93904,"Casuarina via Nightcliff",0,,13335
+12788,4,93974,"Casuarina via Nightcliff",0,,13335
+12788,6,94045,"Casuarina via Nightcliff",0,,13335
+12788,6,94115,"Casuarina via Nightcliff",0,,13335
+12788,6,94185,"Casuarina via Nightcliff",0,,13335
+12788,6,94255,"Casuarina via Nightcliff",0,,13335
+12788,6,94325,"Casuarina via Nightcliff",0,,13335
+12788,6,94395,"Casuarina via Nightcliff",0,,13335
+12788,6,94465,"Casuarina via Nightcliff",0,,13335
+12788,6,94535,"Casuarina via Nightcliff",0,,13335
+12788,6,94605,"Casuarina via Nightcliff",0,,13335
+12788,6,94675,"Casuarina via Nightcliff",0,,13335
+12788,6,94745,"Casuarina via Nightcliff",0,,13335
+12788,6,94815,"Casuarina via Nightcliff",0,,13335
+12788,6,94885,"Casuarina via Nightcliff",0,,13335
+12788,6,94955,"Casuarina via Nightcliff",0,,13335
+12788,6,95025,"Casuarina via Nightcliff",0,,13335
+12788,6,95095,"Casuarina via Pandanus Rd",0,,13629
+12788,6,95165,"Casuarina via Nightcliff",0,,13335
+12788,6,95235,"Casuarina via Nightcliff",0,,13335
+12788,6,95305,"Casuarina via Nightcliff/Ludmilla",0,,13423
+12788,6,95381,"Casuarina via Nightcliff",0,,13335
+12788,6,95451,"Casuarina via Nightcliff",0,,13335
+12788,6,95521,"Casuarina via Nightcliff",0,,13335
+12788,6,95591,"Casuarina via Nightcliff",0,,13335
+12788,6,95661,"Casuarina via Nightcliff",0,,13335
+12788,6,95731,"Casuarina via Nightcliff",0,,13335
+12788,6,95801,"Casuarina via Nightcliff",0,,13335
+12788,6,95871,"Casuarina via Nightcliff",0,,13335
+12788,6,95941,"Casuarina via Nightcliff",0,,13335
+12788,6,96011,"Casuarina via Nightcliff",0,,13335
+12788,6,96081,"Casuarina via Nightcliff",0,,13335
+12788,6,96151,"Casuarina via Nightcliff",0,,13335
+12788,6,96221,"Casuarina via Nightcliff",0,,13335
+12788,6,96291,"Casuarina via Nightcliff",0,,13335
+12788,6,96361,"Casuarina via Nightcliff",0,,13335
+12788,3,96431,"Casuarina via Nightcliff",0,,13335
+12788,3,96501,"Casuarina via Nightcliff",0,,13335
+12788,3,96571,"Casuarina via Nightcliff",0,,13335
+12788,3,96641,"Casuarina via Nightcliff",0,,13335
+14001,6,96979,"Casuarina via Winnellie",0,,14370
+14001,6,97065,"Casuarina via Winnellie",0,,14370
+14001,6,97151,"Casuarina via Winnellie",0,,14370
+14001,6,97237,"Casuarina via Crocodylus",0,,14668
+14001,6,97325,"Casuarina via Crocodylus",0,,14668
+14001,6,97413,"Casuarina via Winnellie",0,,14370
+14001,6,97499,"Casuarina via Crocodylus",0,,14668
+14001,6,97587,"Casuarina via Winnellie",0,,14370
+14001,6,97673,"Darwin Interchange to Casuarina Interchange",0,,14580
+14001,6,97761,"Casuarina via Winnellie",0,,14370
+14001,6,97847,"Casuarina via Winnellie",0,,14370
+14001,6,97933,"Casuarina via Winnellie",0,,14370
+14001,6,98019,"Casuarina via Winnellie",0,,14370
+15280,2,98343,"Palmerston",0,,15511
+15280,2,98399,"Palmerston",0,,15511
+15280,2,98455,"Palmerston",0,,15511
+15280,2,98511,"Palmerston",0,,15511
+15280,2,98567,"Palmerston",0,,15511
+15280,2,98623,"Palmerston",0,,15511
+15280,2,98679,"Palmerston",0,,15511
+15280,2,98735,"Palmerston",0,,15511
+15280,2,98791,"Palmerston",0,,15511
+15280,2,98847,"Palmerston",0,,15511
+15280,2,98903,"Palmerston",0,,15511
+15280,2,98959,"Palmerston",0,,15511
+15280,2,99015,"Palmerston",0,,15511
+15280,4,99072,"Palmerston",0,,15511
+15280,4,99128,"Palmerston",0,,15511
+15280,4,99184,"Palmerston",0,,15511
+15280,4,99240,"Palmerston",0,,15511
+15280,4,99296,"Palmerston",0,,15511
+15280,4,99352,"Palmerston",0,,15511
+15280,4,99408,"Palmerston",0,,15511
+15280,4,99464,"Palmerston",0,,15511
+15280,4,99520,"Palmerston",0,,15511
+15280,4,99576,"Palmerston",0,,15511
+15280,4,99632,"Palmerston",0,,15511
+15280,4,99688,"Palmerston",0,,15511
+15280,4,99744,"Palmerston",0,,15511
+15280,4,99800,"Palmerston",0,,15511
+15280,4,99856,"Palmerston",0,,15511
+15280,6,99913,"Palmerston",0,,15511
+15280,6,99969,"Palmerston",0,,15511
+15280,6,100025,"Palmerston",0,,15511
+15280,6,100081,"Palmerston",0,,15511
+15280,6,100137,"Palmerston",0,,15511
+15280,6,100193,"Palmerston",0,,15511
+15280,6,100249,"Palmerston",0,,15511
+15280,6,100305,"Palmerston",0,,15511
+15280,6,100361,"Palmerston",0,,15511
+15280,6,100417,"Palmerston",0,,15511
+15280,6,100473,"Palmerston",0,,15511
+15280,6,100529,"Palmerston",0,,15511
+15280,6,100585,"Palmerston",0,,15511
+15280,6,100641,"Palmerston",0,,15511
+15280,6,100697,"Palmerston",0,,15511
+15280,6,100753,"Palmerston via St Marys School",0,,15625
+15280,6,100811,"Palmerston",0,,15511
+15280,6,100867,"Palmerston",0,,15511
+15280,6,100923,"Palmerston",0,,15511
+15280,6,100979,"Palmerston",0,,15511
+15280,6,101035,"Palmerston",0,,15511
+15280,6,101091,"Palmerston",0,,15511
+15280,6,101147,"Palmerston",0,,15511
+15280,6,101203,"Palmerston",0,,15511
+15280,6,101259,"Palmerston",0,,15511
+15280,5,101315,"Palmerston via Darwin",0,,15699
+15280,1,101385,"Palmerston",0,,15511
+15280,5,101441,"Palmerston via Darwin",0,,15699
+15280,1,101511,"Palmerston",0,,15511
+15769,2,101568,"Palmerston",0,,15946
+15769,2,101618,"Palmerston",0,,15946
+15769,2,101668,"Palmerston",0,,15946
+15769,2,101718,"Palmerston",0,,15946
+15769,2,101768,"Palmerston",0,,15946
+15769,2,101818,"Palmerston",0,,15946
+15769,2,101868,"Palmerston",0,,15946
+15769,2,101918,"Palmerston",0,,15946
+15769,2,101968,"Palmerston",0,,15946
+15769,2,102018,"Palmerston",0,,15946
+15769,2,102068,"Palmerston",0,,15946
+15769,2,102118,"Palmerston",0,,15946
+15769,2,102168,"Palmerston",0,,15946
+15769,4,102219,"Palmerston",0,,15946
+15769,4,102269,"Palmerston",0,,15946
+15769,4,102319,"Palmerston",0,,15946
+15769,4,102369,"Palmerston",0,,15946
+15769,4,102419,"Palmerston",0,,15946
+15769,4,102469,"Palmerston",0,,15946
+15769,4,102519,"Palmerston",0,,15946
+15769,4,102569,"Palmerston",0,,15946
+15769,4,102619,"Palmerston",0,,15946
+15769,4,102669,"Palmerston",0,,15946
+15769,4,102719,"Palmerston",0,,15946
+15769,4,102769,"Palmerston",0,,15946
+15769,4,102819,"Palmerston",0,,15946
+15769,4,102869,"Palmerston",0,,15946
+15769,4,102919,"Palmerston",0,,15946
+15769,4,102969,"Palmerston",0,,15946
+15769,6,103020,"Palmerston",0,,15946
+15769,6,103070,"Palmerston",0,,15946
+15769,6,103120,"Palmerston",0,,15946
+15769,6,103170,"Palmerston",0,,15946
+15769,6,103220,"Palmerston",0,,15946
+15769,6,103270,"Palmerston via Crocodylus",0,,16156
+15769,6,103322,"Palmerston",0,,15946
+15769,6,103372,"Palmerston",0,,15946
+15769,6,103422,"Palmerston",0,,15946
+15769,6,103472,"Palmerston via Crocodylus",0,,16156
+15769,6,103524,"Palmerston",0,,15946
+15769,6,103574,"Palmerston",0,,15946
+15769,6,103624,"Palmerston via Crocodylus",0,,16156
+15769,6,103676,"Palmerston",0,,15946
+15769,6,103726,"Palmerston via Leanyer",0,,16008
+15769,6,103790,"Palmerston",0,,15946
+15769,6,103840,"Palmerston",0,,15946
+15769,6,103890,"Palmerston",0,,15946
+15769,6,103940,"Palmerston",0,,15946
+15769,6,103990,"Palmerston",0,,15946
+15769,6,104040,"Palmerston",0,,15946
+15769,6,104090,"Palmerston",0,,15946
+15769,6,104140,"Palmerston",0,,15946
+15769,6,104190,"Palmerston",0,,15946
+15769,6,104240,"Palmerston",0,,15946
+15769,6,104290,"Palmerston",0,,15946
+15769,6,104340,"Palmerston",0,,15946
+15769,6,104390,"Palmerston",0,,15946
+15769,6,104440,"Palmerston",0,,15946
+15769,5,104490,"Berrimah",0,,16072
