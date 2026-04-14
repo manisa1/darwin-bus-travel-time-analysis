@@ -162,6 +162,7 @@ plt.xlabel("Trip Distance")
 plt.ylabel("Travel Time (minutes)")
 plt.title("Travel Time vs Distance")
 plt.grid(True)
+plt.savefig('travel_time_vs_distance.png')
 plt.show()
 
 # Graph 2: Actual vs Predicted (Linear Regression)
@@ -171,6 +172,7 @@ plt.xlabel("Actual Travel Time (minutes)")
 plt.ylabel("Predicted Travel Time (minutes)")
 plt.title("Actual vs Predicted Travel Time - Linear Regression")
 plt.grid(True)
+plt.savefig('actual_vs_predicted_linear.png')
 plt.show()
 
 # Graph 3: Actual vs Predicted (Decision Tree)
@@ -180,6 +182,7 @@ plt.xlabel("Actual Travel Time (minutes)")
 plt.ylabel("Predicted Travel Time (minutes)")
 plt.title("Actual vs Predicted Travel Time - Decision Tree")
 plt.grid(True)
+plt.savefig('actual_vs_predicted_tree.png')
 plt.show()
 
 # -------- FINAL GRAPH: Predicted vs Actual --------
