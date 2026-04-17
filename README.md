@@ -1,4 +1,4 @@
-Darwin Bus Travel Time Prediction
+## Darwin Bus Travel Time Prediction
 ## Overview
 
 This project aims to predict bus travel times in Darwin, Australia using machine learning techniques. By analysing public transport data, the project identifies key factors influencing travel time and evaluates different models for prediction accuracy.
