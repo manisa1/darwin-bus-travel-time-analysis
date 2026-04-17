@@ -19,14 +19,39 @@ This helps understand how route design and scheduling affect service efficiency.
 
 ## Dataset
 
-The analysis uses data in GTFS (General Transit Feed Specification) format, a standard used for public transport systems.
+The analysis uses multiple data sources to capture different aspects of the transport system:
 
-**Key files used:
+## 1. GTFS Data (Primary Source)
+The main dataset is in General Transit Feed Specification (GTFS) format, which provides detailed public transport schedule information.
+
+Key files used:
 
 stop_times.txt — arrival and departure times for each stop
 trips.txt — trip-level information
 stops.txt — stop locations
 routes.txt — route details
+
+## 2. Population Data (ABS)
+Population data from the Australian Bureau of Statistics (ABS) was used to represent demand-related factors.
+
+Provides population distribution across areas
+Used as a proxy for potential passenger demand
+## 3. Location Data (CBD Distance)
+
+The distance from the Darwin Central Business District (CBD) was calculated for each trip or stop.
+
+Captures spatial characteristics of routes
+Helps analyse how distance from the city centre affects travel time
+
+## 4. Data Integration
+
+These datasets were combined to create a single analytical dataset, linking:
+
+transport schedule data (GTFS)
+spatial features (CBD distance)
+demographic context (population)
+
+This integration enables a more comprehensive analysis of factors influencing travel time.
 
 ## Data Preprocessing
 
