@@ -1,0 +1,36 @@
+======================================================================
+DATA PIPELINE VERIFICATION
+======================================================================
+
+[LOAD] stop_times=36,178 | trips=1,554 | stops=615 | routes=80 | sa2=35
+[TRIPS] After preprocessing: 1,548 trips
+[MERGED] Final dataset: 1,548 trips, 19 columns
+
+[SANITY CHECKS]
+  Travel time (min):    min=10.0  median=32.0  max=90.0  mean=32.4
+  Trip distance (km):   min=4.12  median=14.51  max=63.49  mean=15.88
+  # stops per trip:     min=2  median=22.0  max=43  mean=22.2
+  Mean CBD distance km: min=0.20  median=10.59  max=28.83  mean=10.20
+  Mean SA2 density:     min=533  median=1172  max=2469  mean=1156
+
+[PEARSON CORRELATIONS with travel_time_min]
+  trip_distance_km           r = +0.884
+  num_stops                  r = +0.640
+  start_hour                 r = -0.069
+  is_peak                    r = +0.065
+  is_weekend_only            r = -0.060
+  mean_dist_from_cbd_km      r = -0.175
+  max_dist_from_cbd_km       r = +0.155
+  mean_sa2_density           r = +0.032
+
+[OLS CLOSED-FORM SANITY FIT]
+  In-sample OLS: R2=0.8807  RMSE=4.093  MAE=3.287
+  Intercept: 5.310
+  trip_distance_km            coef = +1.1481
+  num_stops                   coef = +0.3347
+  start_hour                  coef = -0.0474
+  is_peak                     coef = +0.0471
+  is_weekend_only             coef = +0.0363
+  mean_dist_from_cbd_km       coef = -0.0848
+  max_dist_from_cbd_km        coef = -0.0784
+  mean_sa2_density            coef = +0.0034

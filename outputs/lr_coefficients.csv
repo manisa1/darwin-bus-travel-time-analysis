@@ -1,0 +1,9 @@
+feature,coefficient
+trip_distance_km,1.1935511857783527
+num_stops,0.3198461089467992
+start_hour,-0.06746032450187181
+is_peak,-0.12695141722754594
+is_weekend_only,-0.1176956357428695
+mean_dist_from_cbd_km,-0.026413023482330995
+max_dist_from_cbd_km,-0.15662147378989885
+mean_sa2_density,0.0033148271456555595
