@@ -1,144 +1,144 @@
-## Darwin Bus Travel Time Prediction
+# Darwin Bus Network — Travel Time Prediction
+
+**PRT564 Data Analytics & Visualisation | Group 10 | Charles Darwin University**
+
+---
+
+## Research Question
+
+> *To what extent can bus travel time be predicted based on route characteristics such as distance travelled, number of stops, and time of day?*
+
+---
+
 ## Overview
 
-This project aims to predict bus travel times in Darwin, Australia using machine learning techniques. By analysing public transport data, the project identifies key factors influencing travel time and evaluates different models for prediction accuracy.
+This project implements an end-to-end regression pipeline to predict bus trip travel times across the Darwin bus network. It integrates three heterogeneous data sources and evaluates three machine learning models using cross-validation and statistical tests.
 
-The focus is on estimating total travel time per trip, using route and schedule characteristics derived from GTFS data.
+---
 
-## Problem Definition
+## Data Sources
 
-The objective of this project is to predict the total travel time of a bus trip, calculated as the time difference between the first and last stop of each trip.
+| Source | Description |
+|---|---|
+| **NT Government GTFS Feed** | Scheduled transit data: `stop_times.txt`, `trips.txt`, `stops.txt`, `routes.txt`, `calendar.txt` |
+| **ABS Census 2021 (SA2)** | Population and population density for Greater Darwin suburbs (`darwin_sa2_population.csv`) |
+| **Geographic Reference** | Darwin Interchange CBD coordinates used to compute Haversine distances per stop |
 
-The prediction is based on features such as:
+---
 
-Trip distance
-Number of stops
-Time of day
+## Pipeline Stages (`pipeline.py`)
 
-This helps understand how route design and scheduling affect service efficiency.
+1. **Data Loading** — 6 source files loaded
+2. **Preprocessing** — GTFS time parsing, numeric coercion, IQR outlier removal (1st–99th percentile)
+3. **Feature Engineering** — peak-hour flags (AM 7–9, PM 16–18), weekday/weekend service type
+4. **Heterogeneous Integration** — Haversine CBD distance + nearest-SA2 population density joined to each trip
+5. **Exploratory Data Analysis** — 5 figures saved to `outputs/`
+6. **Regression Modelling** — 3 models trained on 8 features (80/20 split)
+7. **Cross-Validation & Statistical Tests** — 5-fold CV, paired t-tests, global F-test
+8. **Residual Diagnostics** — Shapiro-Wilk normality test, Q-Q plot
+9. **Prediction Plots** — Actual vs Predicted for all 3 models, feature importances
+10. **Summary Output** — all CSVs and figures saved to `outputs/`
 
-## Dataset
+---
 
-The analysis uses multiple data sources to capture different aspects of the transport system:
+## Features Used
 
-## 1. GTFS Data (Primary Source)
-The main dataset is in General Transit Feed Specification (GTFS) format, which provides detailed public transport schedule information.
+| Feature | Source |
+|---|---|
+| `trip_distance_km` | GTFS (`shape_dist_traveled`) |
+| `num_stops` | GTFS (`stop_sequence`) |
+| `start_hour` | GTFS (`departure_time`) |
+| `is_peak` | Derived (AM/PM peak hours) |
+| `is_weekend_only` | GTFS (`calendar.txt`) |
+| `mean_dist_from_cbd_km` | Geographic (Haversine) |
+| `max_dist_from_cbd_km` | Geographic (Haversine) |
+| `mean_sa2_density` | ABS Census 2021 |
 
-Key files used:
+---
 
-stop_times.txt — arrival and departure times for each stop
-trips.txt — trip-level information
-stops.txt — stop locations
-routes.txt — route details
+## Models & Results
 
-## 2. Population Data (ABS)
-Population data from the Australian Bureau of Statistics (ABS) was used to represent demand-related factors.
+| Model | MAE (min) | RMSE (min) | R² |
+|---|---|---|---|
+| Linear Regression | 3.40 | 4.31 | 0.847 |
+| Decision Tree (depth=8) | 0.87 | 2.14 | 0.962 |
+| **Random Forest (200 trees)** | **0.58** | **1.71** | **0.976** |
 
-Provides population distribution across areas
-Used as a proxy for potential passenger demand
-## 3. Location Data (CBD Distance)
+All pairwise differences are statistically significant (paired t-tests, p < 0.01).
 
-The distance from the Darwin Central Business District (CBD) was calculated for each trip or stop.
+---
 
-Captures spatial characteristics of routes
-Helps analyse how distance from the city centre affects travel time
+## Statistical Tests
 
-## 4. Data Integration
+- **Paired t-tests** on 5-fold CV RMSE — all three model pairs significantly different
+- **Global F-test** on Linear Regression — model is globally significant (p < 0.0001)
+- **Shapiro-Wilk** on residuals — residuals are non-normal (p < 0.05); LR confidence intervals should be interpreted cautiously
 
-These datasets were combined to create a single analytical dataset, linking:
+---
 
-transport schedule data (GTFS)
-spatial features (CBD distance)
-demographic context (population)
+## Output Files (`outputs/`)
 
-This integration enables a more comprehensive analysis of factors influencing travel time.
+| File | Description |
+|---|---|
+| `01_distributions.png` | Travel time & distance distributions |
+| `02_correlation_heatmap.png` | Pearson correlation matrix |
+| `03_scatter_distance_vs_time.png` | Distance vs time coloured by SA2 density |
+| `04_boxplots_day_type.png` | Peak vs off-peak, weekday vs weekend |
+| `05_top_routes_by_time.png` | Top 20 routes by mean travel time |
+| `06_residual_diagnostics.png` | Residuals vs fitted, Q-Q plot, histogram |
+| `07_actual_vs_predicted.png` | All 3 models side by side |
+| `08_feature_importance.png` | Decision Tree & Random Forest importances |
+| `holdout_results.csv` | MAE, RMSE, R² for all models |
+| `cv_rmse_per_fold.csv` | CV RMSE per fold |
+| `paired_ttests.csv` | Paired t-test results |
+| `lr_coefficients.csv` | Linear Regression coefficients |
+| `descriptive_statistics.csv` | Dataset summary statistics |
 
-## Data Preprocessing
+---
 
-Several preprocessing steps were applied to prepare the data:
+## How to Run
 
-Converted time values from HH:MM:SS format into minutes for numerical analysis
-Removed missing or inconsistent records
-Filtered extreme values (outliers) to improve model stability
-Aggregated stop-level data into trip-level summaries
+```bash
+# Install dependencies
+pip install pandas numpy scikit-learn matplotlib seaborn scipy
 
-These steps ensured that the dataset was clean and suitable for machine learning models.
+# Run the main pipeline
+python pipeline.py
 
-## Feature Engineering
+# Verify data integrity
+python verify_data_pipeline.py
 
-The following features were created to represent each trip:
+# Rebuild the presentation
+python build_presentation.py
+```
 
-Trip distance — derived from cumulative distance (shape_dist_traveled)
-Number of stops — calculated from stop sequence count
-Start time — extracted from the first departure time of each trip
+---
 
-These features were selected because they directly influence travel time and reflect route characteristics.
+## Key Findings
 
-## Models
+- **Trip distance** is the strongest predictor (~1.2 min added per extra km)
+- **Number of stops** adds ~0.32 min per stop
+- **Peak hour and weekend** effects are minimal in Darwin's scheduled network
+- **Random Forest** achieves R² = 0.976, predicting travel time to within 1.7 minutes on average
 
-Two regression models were implemented:
-
-Linear Regression
-Used as a baseline model
-Assumes a linear relationship between variables
-Decision Tree Regression
-Captures non-linear relationships
-Able to model interactions between features
-
-## Model Evaluation
-
-The models were evaluated using the following metrics:
-
-MAE (Mean Absolute Error) — average prediction error
-RMSE (Root Mean Squared Error) — penalises large errors
-R² (R-squared) — proportion of variance explained
-Model	MAE	RMSE	R²
-Linear Regression	3.24	4.13	0.91
-Decision Tree	1.86	2.53	0.97
-
-The Decision Tree model achieved lower error and higher explanatory power.
-
-## Visualisations
-
-The analysis includes several visualisations:
-
-Travel Time vs Distance — shows strong positive relationship
-Predicted vs Actual (Linear Regression)
-Predicted vs Actual (Decision Tree)
-
-These visualisations help evaluate model performance and understand patterns in the data.
-
-## Results & Discussion
-
-The results show that:
-
-Distance is the strongest predictor of travel time
-Number of stops increases travel time, due to frequent stopping
-The Decision Tree model outperforms Linear Regression, indicating that relationships between variables are not purely linear
-
-The Decision Tree model achieved an average error of approximately 1.86 minutes, demonstrating good predictive performance.
+---
 
 ## Limitations
 
-This project has several limitations:
+- Based on **scheduled** timetable data — real delays and traffic not captured
+- SA2 demographic join uses **nearest centroid** (approximate spatial match)
+- No passenger demand data available
+- GTFS snapshot may not reflect seasonal timetable changes
 
-The dataset is based on scheduled timetable data, not real-time data
-It does not account for traffic conditions, delays, or weather
-No passenger demand data is available, limiting evaluation of service usefulness
-Decision Tree models may be prone to overfitting with limited features
+---
 
-As a result, predictions represent ideal conditions rather than real-world variability.
+## Team
 
-## Future Improvements
+| Name | Student ID | Role |
+|---|---|---|
+| Aashish Sharma | S396419 | Visualisation Lead |
+| Manisha Paudel | S380490 | Data Acquisition & Preparation Lead |
+| Rahul Sharma | S388446 | Reporting & Integration Lead |
+| Roshan Neupane | S395086 | Data Analysis Lead |
 
-Future work could improve the model by:
-
-Incorporating real-time data (delays, traffic conditions)
-Adding passenger demand information
-Using more advanced models such as Random Forest or Gradient Boosting
-Including additional features such as route type or service frequency
-🧾 Conclusion
-
-This project demonstrates that machine learning models can effectively predict bus travel time using route and schedule data.
-
-The Decision Tree model provided the best performance due to its ability to capture non-linear relationships. These findings highlight how data-driven approaches can support transport planning and improve service efficiency.
+**Dataset:** [NT Government GTFS Feed](https://data.nt.gov.au/dataset/bus-timetable-data-and-geographic-information-darwin) | [ABS 2021 Census](https://www.abs.gov.au)
