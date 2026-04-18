@@ -201,6 +201,24 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Presentation file (submitted to Learnline separately)
+*.pptx
+
+# Old/superseded output files (replaced by outputs/ folder)
+actual_vs_predicted_linear.png
+actual_vs_predicted_tree.png
+travel_time_vs_distance.png
+
+# Unused GTFS file (shapes not used in pipeline)
+shapes.txt
+
+# Old initial exploratory script (superseded by pipeline.py)
+analysis.py
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
