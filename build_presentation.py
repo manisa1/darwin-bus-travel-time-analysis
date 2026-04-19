@@ -4,16 +4,14 @@ Generates a .pptx file with all required slides and embedded visuals.
 Group 10
 """
 
-from pathlib import Path
 from pptx import Presentation
-from pptx.util import Inches, Pt, Emu
+from pptx.util import Inches, Pt
 from pptx.dml.color import RGBColor
 from pptx.enum.text import PP_ALIGN
 from pptx.util import Inches, Pt
-import io
 
-BASE_DIR = Path(__file__).resolve().parent
-OUT_DIR = BASE_DIR / "outputs"
+# PATHS / CONFIG
+from config import OUTPUT_DIR, BASE_DIR
 
 # ── Colour palette ──────────────────────────────────────────────────────────
 DARK_BLUE   = RGBColor(0x1A, 0x37, 0x5E)   # slide background / headers
@@ -333,9 +331,9 @@ fill_bg(s, LIGHT_GREY)
 header_bar(s, "Exploratory Data Analysis", "Distributions & Feature Correlations")
 slide_number(s, 5)
 
-add_image(s, OUT_DIR / "01_distributions.png",
+add_image(s, OUTPUT_DIR / "01_distributions.png",
           Inches(0.3), Inches(1.25), Inches(6.5), Inches(3.5))
-add_image(s, OUT_DIR / "02_correlation_heatmap.png",
+add_image(s, OUTPUT_DIR / "02_correlation_heatmap.png",
           Inches(6.9), Inches(1.2), Inches(6.2), Inches(5.7))
 
 add_rect(s, Inches(0.3), Inches(4.85), Inches(6.5), Inches(2.3), DARK_BLUE)
@@ -360,9 +358,9 @@ fill_bg(s, LIGHT_GREY)
 header_bar(s, "Exploratory Data Analysis", "Spatial patterns & Time-of-day effects")
 slide_number(s, 6)
 
-add_image(s, OUT_DIR / "03_scatter_distance_vs_time.png",
+add_image(s, OUTPUT_DIR / "03_scatter_distance_vs_time.png",
           Inches(0.3), Inches(1.25), Inches(6.5), Inches(3.5))
-add_image(s, OUT_DIR / "04_boxplots_day_type.png",
+add_image(s, OUTPUT_DIR / "04_boxplots_day_type.png",
           Inches(6.9), Inches(1.25), Inches(6.2), Inches(3.5))
 
 add_rect(s, Inches(0.3), Inches(4.85), Inches(6.5), Inches(2.3), MID_BLUE)
@@ -394,7 +392,7 @@ fill_bg(s, LIGHT_GREY)
 header_bar(s, "Exploratory Data Analysis", "Route-level travel time patterns")
 slide_number(s, 7)
 
-add_image(s, OUT_DIR / "05_top_routes_by_time.png",
+add_image(s, OUTPUT_DIR / "05_top_routes_by_time.png",
           Inches(0.3), Inches(1.25), Inches(8.0), Inches(5.9))
 
 add_rect(s, Inches(8.5), Inches(1.3), Inches(4.6), Inches(5.8), DARK_BLUE)
@@ -489,7 +487,7 @@ add_textbox(s, metric_text,
             Inches(0.3), Inches(4.55), Inches(12.7), Inches(1.1),
             font_size=13, color=DARK_GREY)
 
-add_image(s, OUT_DIR / "07_actual_vs_predicted.png",
+add_image(s, OUTPUT_DIR / "07_actual_vs_predicted.png",
           Inches(0.3), Inches(5.6), Inches(12.7), Inches(1.7))
 
 
@@ -542,7 +540,7 @@ add_textbox(s,
             Inches(0.3), Inches(5.1), Inches(12.7), Inches(0.45),
             font_size=14, bold=True, italic=True, color=DARK_BLUE, align=PP_ALIGN.CENTER)
 
-add_image(s, OUT_DIR / "06_residual_diagnostics.png",
+add_image(s, OUTPUT_DIR / "06_residual_diagnostics.png",
           Inches(0.3), Inches(5.55), Inches(12.7), Inches(1.7))
 
 
@@ -552,7 +550,7 @@ fill_bg(s, LIGHT_GREY)
 header_bar(s, "Feature Importance & Coefficients", "What drives bus travel time?")
 slide_number(s, 11)
 
-add_image(s, OUT_DIR / "08_feature_importance.png",
+add_image(s, OUTPUT_DIR / "08_feature_importance.png",
           Inches(0.3), Inches(1.25), Inches(8.5), Inches(3.8))
 
 add_rect(s, Inches(8.9), Inches(1.25), Inches(4.2), Inches(3.8), DARK_BLUE)

@@ -8,14 +8,11 @@ so the data side can be validated independently of the modelling stack.
 Produces a small report (data_verification_report.txt) with sanity checks.
 """
 from math import asin, cos, radians, sin, sqrt
-from pathlib import Path
 import numpy as np
 import pandas as pd
 
-BASE = Path(__file__).resolve().parent
-OUT = BASE / "outputs"
-OUT.mkdir(exist_ok=True)
-DARWIN_CBD = (-12.464786, 130.844340)
+# PATHS / CONFIG
+from config import DATASET_DIR, DARWIN_BUS_TRAVEL_DATA_DIR , DARWIN_CBD, OUTPUT_DIR
 
 
 def haversine_km(lat1, lon1, lat2, lon2):
@@ -38,12 +35,12 @@ log("DATA PIPELINE VERIFICATION")
 log("=" * 70)
 
 # 1. Load
-stop_times = pd.read_csv(BASE / "stop_times.txt")
-trips = pd.read_csv(BASE / "trips.txt")
-stops = pd.read_csv(BASE / "stops.txt")
-routes = pd.read_csv(BASE / "routes.txt")
-calendar = pd.read_csv(BASE / "calendar.txt")
-sa2 = pd.read_csv(BASE / "darwin_sa2_population.csv")
+stop_times = pd.read_csv(DARWIN_BUS_TRAVEL_DATA_DIR / "stop_times.txt")
+trips = pd.read_csv(DARWIN_BUS_TRAVEL_DATA_DIR / "trips.txt")
+stops = pd.read_csv(DARWIN_BUS_TRAVEL_DATA_DIR / "stops.txt")
+routes = pd.read_csv(DARWIN_BUS_TRAVEL_DATA_DIR / "routes.txt")
+calendar = pd.read_csv(DARWIN_BUS_TRAVEL_DATA_DIR / "calendar.txt")
+sa2 = pd.read_csv(DATASET_DIR / "darwin_sa2_population_dataset.csv")
 
 log(f"\n[LOAD] stop_times={len(stop_times):,} | trips={len(trips):,} | "
     f"stops={len(stops):,} | routes={len(routes):,} | sa2={len(sa2)}")
@@ -181,6 +178,6 @@ for name, b in zip(feats, beta[1:]):
     log(f"  {name:26s}  coef = {b:+.4f}")
 
 # Save report
-out_path = OUT / "data_verification_report.txt"
+out_path = OUTPUT_DIR / "data_verification_report.txt"
 out_path.write_text("\n".join(report))
 log(f"\nReport saved -> {out_path}")
