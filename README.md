@@ -100,7 +100,7 @@ All pairwise differences are statistically significant (paired t-tests, p < 0.01
 
 ```bash
 # Install dependencies
-pip install pandas numpy scikit-learn matplotlib seaborn scipy
+pip install -r requirements.txt
 
 # Run the main pipeline
 python pipeline.py
