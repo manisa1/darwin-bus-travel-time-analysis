@@ -46,15 +46,11 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import KFold, cross_val_score, train_test_split
 from sklearn.tree import DecisionTreeRegressor
 
+# PATHS / CONFIG
+from config import OUTPUT_DIR, DATASET_DIR, DARWIN_BUS_TRAVEL_DATA_DIR 
+
 warnings.filterwarnings("ignore", category=FutureWarning)
 sns.set_theme(style="whitegrid", context="talk")
-
-# -----------------------------------------------------------------------------
-# PATHS / CONFIG
-# -----------------------------------------------------------------------------
-BASE_DIR = Path(__file__).resolve().parent
-OUTPUT_DIR = BASE_DIR / "outputs"
-OUTPUT_DIR.mkdir(exist_ok=True)
 
 # Darwin Interchange (CBD reference) - stop_id 83 in stops.txt
 DARWIN_CBD = (-12.464786, 130.844340)
@@ -92,12 +88,12 @@ print("=" * 70)
 print("STAGE 1: DATA LOADING")
 print("=" * 70)
 
-stop_times = pd.read_csv(BASE_DIR / "stop_times.txt")
-trips = pd.read_csv(BASE_DIR / "trips.txt")
-stops = pd.read_csv(BASE_DIR / "stops.txt")
-routes = pd.read_csv(BASE_DIR / "routes.txt")
-calendar = pd.read_csv(BASE_DIR / "calendar.txt")
-sa2 = pd.read_csv(BASE_DIR / "darwin_sa2_population.csv")
+stop_times = pd.read_csv(DARWIN_BUS_TRAVEL_DATA_DIR / "stop_times.txt")
+trips = pd.read_csv(DARWIN_BUS_TRAVEL_DATA_DIR / "trips.txt")
+stops = pd.read_csv(DARWIN_BUS_TRAVEL_DATA_DIR / "stops.txt")
+routes = pd.read_csv(DARWIN_BUS_TRAVEL_DATA_DIR / "routes.txt")
+calendar = pd.read_csv(DARWIN_BUS_TRAVEL_DATA_DIR / "calendar.txt")
+sa2 = pd.read_csv(DATASET_DIR / "darwin_sa2_population_dataset.csv")
 
 print(f"  stop_times:  {stop_times.shape[0]:>6,} rows")
 print(f"  trips:       {trips.shape[0]:>6,} rows")
