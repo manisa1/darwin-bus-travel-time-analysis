@@ -427,8 +427,22 @@ for name, model in models.items():
     )
 holdout_df = pd.DataFrame(holdout_results)
 holdout_df.to_csv(OUTPUT_DIR / "holdout_results.csv", index=False)
-print("\n  Hold-out performance:")
-print(holdout_df.round(3).to_string(index=False))
+
+for row in holdout_results:
+    print(f"\n{row['Model']} Results")
+    print(f"MAE: {row['MAE']}")
+    print(f"RMSE: {row['RMSE']}")
+    print(f"R2: {row['R2']}")
+
+lr_row = next(r for r in holdout_results if r["Model"] == "Linear Regression")
+lr_model = models["Linear Regression"]
+print("\nLinear Regression Coefficients:")
+for feat, coef in zip(FEATURES, lr_model.coef_):
+    print(f"  {feat}: {round(coef, 4)}")
+print(f"  Intercept: {round(float(lr_model.intercept_), 4)}")
+
+print("\nModel Comparison")
+print(holdout_df.round(6).to_string(index=True))
 
 
 # =============================================================================
