@@ -12,7 +12,7 @@
 
 ## Overview
 
-This project implements an end-to-end regression pipeline to predict bus trip travel times across the Darwin bus network. It integrates three heterogeneous data sources and evaluates three machine learning models using cross-validation and statistical tests.
+This project demonstrates an end-to-end regression pipeline that forecasts bus trip travel times across the Darwin bus network. It combines three heterogeneous data sources and comares three machine learning models using cross-validation and statistical tests.
 
 ---
 
