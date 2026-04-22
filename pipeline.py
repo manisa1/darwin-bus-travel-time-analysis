@@ -12,7 +12,7 @@ This pipeline implements the end-to-end analysis required by AT2:
     2. Heterogeneous data integration (GTFS + ABS + geographic)
     3. Exploratory data analysis
     4. Feature engineering
-    5. Regression modelling (3 models)
+    5. Regression modelling (2 models)
     6. Cross-validated evaluation with statistical tests
     7. Residual diagnostics
 
@@ -40,7 +40,6 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 from scipy import stats
-from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import KFold, cross_val_score, train_test_split
@@ -410,9 +409,6 @@ print(f"  Features: {FEATURES}")
 models = {
     "Linear Regression": LinearRegression(),
     "Decision Tree": DecisionTreeRegressor(max_depth=8, random_state=RANDOM_STATE),
-    "Random Forest": RandomForestRegressor(
-        n_estimators=200, max_depth=12, random_state=RANDOM_STATE, n_jobs=-1
-    ),
 }
 
 # --- 6.1 Fit each model + hold-out evaluation ------------------------------
@@ -546,13 +542,11 @@ plt.savefig(OUTPUT_DIR / "07_actual_vs_predicted.png", dpi=120)
 plt.close()
 
 # --- Feature importances for tree-based models ----------------------------
-fig, axes = plt.subplots(1, 2, figsize=(14, 5))
-for ax, (name, model) in zip(axes, [("Decision Tree", models["Decision Tree"]),
-                                     ("Random Forest", models["Random Forest"])]):
-    imp = pd.Series(model.feature_importances_, index=FEATURES).sort_values()
-    imp.plot.barh(ax=ax, color="#A23B72")
-    ax.set_title(f"Feature importance - {name}")
-    ax.set_xlabel("Importance")
+fig, axes = plt.subplots(1, 1, figsize=(8, 5))
+imp = pd.Series(models["Decision Tree"].feature_importances_, index=FEATURES).sort_values()
+imp.plot.barh(ax=axes, color="#A23B72")
+axes.set_title("Feature importance - Decision Tree")
+axes.set_xlabel("Importance")
 plt.tight_layout()
 plt.savefig(OUTPUT_DIR / "08_feature_importance.png", dpi=120)
 plt.close()
