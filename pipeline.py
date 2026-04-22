@@ -541,7 +541,7 @@ print("\n" + "=" * 70)
 print("STAGE 9: PREDICTION PLOTS")
 print("=" * 70)
 
-fig, axes = plt.subplots(1, 3, figsize=(17, 5))
+fig, axes = plt.subplots(1, 2, figsize=(12, 5))
 for ax, (name, y_hat) in zip(axes, predictions.items()):
     ax.scatter(y_test, y_hat, alpha=0.5, s=14)
     lo, hi = min(y_test.min(), y_hat.min()), max(y_test.max(), y_hat.max())
