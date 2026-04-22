@@ -45,8 +45,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import KFold, cross_val_score, train_test_split
 from sklearn.tree import DecisionTreeRegressor
 
-# PATHS / CONFIG
-from config import OUTPUT_DIR, DATASET_DIR, DARWIN_BUS_TRAVEL_DATA_DIR 
+from config import OUTPUT_DIR, DATASET_DIR, DARWIN_BUS_TRAVEL_DATA_DIR
 
 warnings.filterwarnings("ignore", category=FutureWarning)
 sns.set_theme(style="whitegrid", context="talk")
